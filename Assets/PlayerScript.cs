@@ -83,7 +83,7 @@ public class PlayerScript : SoldierScript
 		camFPS.SetActive(isFPS);
 		camTPS.SetActive(!isFPS);
 
-		isShooting = (/*Input.GetMouseButton(0) || */btnAttack) && loadedAmmo > 0;
+		isShooting = (Input.GetMouseButton(0) || btnAttack) && loadedAmmo > 0;
 
 		if(canReload && ((Input.GetKeyDown(KeyCode.R) || btnReload) || loadedAmmo <= 0))
 		{
