@@ -110,7 +110,7 @@ NavMeshSettings:
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
-  m_NavMeshData: {fileID: 0}
+  m_NavMeshData: {fileID: 23800000, guid: d7ea9afb3f5427f4a936f448f31398eb, type: 2}
 --- !u!1 &194278209
 GameObject:
   m_ObjectHideFlags: 0
@@ -325,10 +325,10 @@ GameObject:
   - component: {fileID: 385638965}
   m_Layer: 0
   m_Name: Plane
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 23
+  m_StaticEditorFlags: 31
   m_IsActive: 1
 --- !u!4 &385638964
 Transform:
@@ -409,10 +409,10 @@ GameObject:
   - component: {fileID: 459010012}
   m_Layer: 0
   m_Name: Plane (3)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 23
+  m_StaticEditorFlags: 31
   m_IsActive: 1
 --- !u!4 &459010011
 Transform:
@@ -493,10 +493,10 @@ GameObject:
   - component: {fileID: 547664423}
   m_Layer: 0
   m_Name: Plane (5)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 23
+  m_StaticEditorFlags: 31
   m_IsActive: 1
 --- !u!4 &547664422
 Transform:
@@ -781,10 +781,10 @@ GameObject:
   - component: {fileID: 734130763}
   m_Layer: 0
   m_Name: Plane (4)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 23
+  m_StaticEditorFlags: 31
   m_IsActive: 1
 --- !u!4 &734130762
 Transform:
@@ -862,10 +862,10 @@ GameObject:
   - component: {fileID: 748646645}
   m_Layer: 0
   m_Name: Static Planes
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 23
+  m_StaticEditorFlags: 31
   m_IsActive: 1
 --- !u!4 &748646645
 Transform:
@@ -902,10 +902,10 @@ GameObject:
   - component: {fileID: 839622019}
   m_Layer: 0
   m_Name: Plane (1)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 23
+  m_StaticEditorFlags: 31
   m_IsActive: 1
 --- !u!4 &839622018
 Transform:
@@ -1012,9 +1012,11 @@ GameObject:
   - component: {fileID: 894439107}
   - component: {fileID: 894439106}
   - component: {fileID: 894439105}
+  - component: {fileID: 894439108}
+  - component: {fileID: 894439109}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: Unit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1083,6 +1085,41 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 894439103}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &894439108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 894439103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 768d68945a3979544af926b221059066, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  normalShader: {fileID: 2, guid: 0000000000000000f000000000000000, type: 0}
+  highlightShader: {fileID: 4800000, guid: 16a329354a763374091d46e1c624c52d, type: 3}
+  isSelected: 0
+--- !u!195 &894439109
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 894439103}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 1
+  m_BaseOffset: 0.5
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
 --- !u!1 &926622937
 GameObject:
   m_ObjectHideFlags: 0
@@ -1096,10 +1133,10 @@ GameObject:
   - component: {fileID: 926622939}
   m_Layer: 0
   m_Name: Plane (2)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 23
+  m_StaticEditorFlags: 31
   m_IsActive: 1
 --- !u!4 &926622938
 Transform:
@@ -1287,9 +1324,11 @@ GameObject:
   - component: {fileID: 1114065465}
   - component: {fileID: 1114065464}
   - component: {fileID: 1114065463}
+  - component: {fileID: 1114065466}
+  - component: {fileID: 1114065467}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Untagged
+  m_TagString: Unit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1358,6 +1397,41 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1114065461}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1114065466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1114065461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 768d68945a3979544af926b221059066, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  normalShader: {fileID: 2, guid: 0000000000000000f000000000000000, type: 0}
+  highlightShader: {fileID: 4800000, guid: 16a329354a763374091d46e1c624c52d, type: 3}
+  isSelected: 0
+--- !u!195 &1114065467
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1114065461}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 1
+  m_BaseOffset: 0.5
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
 --- !u!1 &1193806443
 GameObject:
   m_ObjectHideFlags: 0
@@ -1470,10 +1544,10 @@ GameObject:
   - component: {fileID: 1245199060}
   m_Layer: 0
   m_Name: Plane (8)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 23
+  m_StaticEditorFlags: 31
   m_IsActive: 1
 --- !u!4 &1245199059
 Transform:
@@ -1612,6 +1686,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1749125351}
   - component: {fileID: 1749125352}
+  - component: {fileID: 1749125353}
   - component: {fileID: 1749125350}
   - component: {fileID: 1749125349}
   - component: {fileID: 1749125348}
@@ -1720,6 +1795,18 @@ MonoBehaviour:
   atouch1: {fileID: 272847141}
   touch0: {fileID: 655603645}
   touch1: {fileID: 194278210}
+--- !u!114 &1749125353
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1749125346}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c17e78ce851c11747b793c74307d7d61, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedUnits: []
 --- !u!1 &1757958534
 GameObject:
   m_ObjectHideFlags: 0
@@ -1971,10 +2058,10 @@ GameObject:
   - component: {fileID: 2011919614}
   m_Layer: 0
   m_Name: Plane (6)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 23
+  m_StaticEditorFlags: 31
   m_IsActive: 1
 --- !u!4 &2011919613
 Transform:
@@ -2055,10 +2142,10 @@ GameObject:
   - component: {fileID: 2012801611}
   m_Layer: 0
   m_Name: Plane (7)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 23
+  m_StaticEditorFlags: 31
   m_IsActive: 1
 --- !u!4 &2012801610
 Transform:

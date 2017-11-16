@@ -23,6 +23,7 @@ public class CameraController : MonoBehaviour
 	private float aZoomDistance = 0.0f;
 
 	//Booleans for checking two touches
+	private bool isStationary = false;
 	private bool hasBegan = false;
 	private bool isPressedDown0 = false;
 	private bool isPressedDown1 = false;
@@ -52,7 +53,7 @@ public class CameraController : MonoBehaviour
 //		#if UNITY_EDITOR
 //		touch0.gameObject.SetActive(false);
 //		touch1.gameObject.SetActive(false);
-		//		#endif
+//		#endif
 		aZoomValue = zoomValue;
 	}
 
@@ -107,18 +108,34 @@ public class CameraController : MonoBehaviour
 					aZoomValue = zoomValue;
 					aZoomDistance = Vector2.Distance(atouch0Pos, atouch1Pos);
 					hasBegan = true;
+					isStationary = false;
 				}
+			}
+			if(t0.phase == TouchPhase.Stationary && t1.phase == TouchPhase.Stationary)
+			{
+				isStationary = true;
 			}
 			if(t0.phase == TouchPhase.Moved || t1.phase == TouchPhase.Moved)
 			{
+				if(isStationary)
+				{
+					anchorPos = avgPos;
+					movedPos = avgPos;
+					originPos = pointer.position;
+					atouch0Pos = touch0Pos;
+					atouch1Pos = touch1Pos;
+					aZoomValue = zoomValue;
+					aZoomDistance = Vector2.Distance(atouch0Pos, atouch1Pos);
+					isStationary = false;
+				}
 				movedPos = avgPos;
 
 				float mZoomDistance = Vector2.Distance(touch0Pos, touch1Pos);
 				zoomValue = Mathf.Clamp01(aZoomValue + ((mZoomDistance - aZoomDistance) * zoomStep));
 			}
 
-			if(t0.phase == TouchPhase.Canceled || t0.phase == TouchPhase.Ended) { isPressedDown0 = false; hasBegan = false; }
-			if(t1.phase == TouchPhase.Canceled || t1.phase == TouchPhase.Ended) { isPressedDown1 = false; hasBegan = false; }
+			if(t0.phase == TouchPhase.Canceled || t0.phase == TouchPhase.Ended) { isPressedDown0 = false; hasBegan = false; isStationary = false;}
+			if(t1.phase == TouchPhase.Canceled || t1.phase == TouchPhase.Ended) { isPressedDown1 = false; hasBegan = false; isStationary = false;}
 		}
 	}
 	#endif
@@ -178,10 +195,8 @@ public class CameraController : MonoBehaviour
 
 	void MoveCameraPointer()
 	{
-		Vector2 dir = anchorPos - movedPos;
-		dir *= panDistance;
-		Vector3 dir3 = new Vector3(dir.x, 0.0f, dir.y);
-		pointer.position = Vector3.Lerp(pointer.position, originPos + dir3, Time.deltaTime * panSpeed);
+		Vector3 dir = (anchorPos - movedPos).ToXZ() * panDistance;
+		pointer.position = Vector3.Lerp(pointer.position, originPos + dir, Time.deltaTime * panSpeed);
 	}
 
 	void ZoomCamera()
