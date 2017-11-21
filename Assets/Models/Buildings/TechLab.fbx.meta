@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: 8dc3cddab4cc90f4d81219d339239f3c
+timeCreated: 1511241701
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: Bldg_Terran_TechLab_01
+    100004: Bldg_Terran_TechLab_02
+    100006: Bldg_Terran_TechLab_10
+    100008: Bldg_Terran_TechLab_10_end
+    100010: Bldg_Terran_TechLab_11
+    100012: Bldg_Terran_TechLab_12
+    100014: Bldg_Terran_TechLab_16
+    100016: Bone_Bldg_Tech_Lab_p_18
+    100018: Bone_Bldg_Tech_Lab_p_19
+    100020: Bone_Bldg_Tech_Lab_p_20
+    100022: Bone_Bldg_Tech_Lab_p_21
+    100024: Bone_Bldg_Tech_Lab_p_22
+    100026: Bone_Bldg_Tech_Lab_p_23
+    100028: Bone_Bldg_Tech_Lab_p_24
+    100030: Bone_Bldg_Tech_Lab_p_25
+    100032: Bone_Bldg_Tech_Lab_p_26
+    100034: Bone_Bldg_Tech_Lab_p_26_end
+    100036: Bone_Bldg_Tech_Lab_p_29
+    100038: Bone_Bldg_Tech_Lab_p_30
+    100040: Bone_Bldg_Tech_Lab_p_31
+    100042: Bone_Bldg_Tech_Lab_p_34
+    100044: Bone_Bldg_Tech_Lab_p_34_end
+    100046: Bone_Link_Object
+    100048: Camera
+    100050: HitTestFuzzy
+    100052: HitTestFuzzy01
+    100054: HitTestFuzzy01_end
+    100056: HitTestFuzzy02
+    100058: HitTestFuzzy02_end
+    100060: HitTestFuzzy_end
+    100062: HitTestTight
+    100064: HitTestTight_end
+    100066: Lamp
+    100068: Mesh
+    100070: Ref_Center
+    100072: Ref_Center_end
+    100074: Ref_Damage
+    100076: Ref_Damage 01
+    100078: Ref_Damage 01_end
+    100080: Ref_Damage 02
+    100082: Ref_Damage 02_end
+    100084: Ref_Damage_end
+    100086: Ref_Origin
+    100088: Ref_Origin_end
+    100090: Ref_Overhead
+    100092: Ref_Overhead_end
+    100094: Star2Force01
+    100096: Star2Force01_end
+    100098: Star2Part01
+    100100: Star2Part01_end
+    100102: Star2Part01exhaust
+    100104: Star2Part01exhaust02
+    100106: Star2Part01exhaust02_end
+    100108: Star2Part01exhaust_end
+    100110: Star2Part02
+    100112: Star2Part02_end
+    100114: Star2Part04
+    100116: Star2Part04_end
+    100118: //RootNode
+    100120: Vol_Target
+    100122: Vol_Target 01
+    100124: Vol_Target 01_end
+    100126: Vol_Target_end
+    400000: Armature Object
+    400002: Bldg_Terran_TechLab_01
+    400004: Bldg_Terran_TechLab_02
+    400006: Bldg_Terran_TechLab_10
+    400008: Bldg_Terran_TechLab_10_end
+    400010: Bldg_Terran_TechLab_11
+    400012: Bldg_Terran_TechLab_12
+    400014: Bldg_Terran_TechLab_16
+    400016: Bone_Bldg_Tech_Lab_p_18
+    400018: Bone_Bldg_Tech_Lab_p_19
+    400020: Bone_Bldg_Tech_Lab_p_20
+    400022: Bone_Bldg_Tech_Lab_p_21
+    400024: Bone_Bldg_Tech_Lab_p_22
+    400026: Bone_Bldg_Tech_Lab_p_23
+    400028: Bone_Bldg_Tech_Lab_p_24
+    400030: Bone_Bldg_Tech_Lab_p_25
+    400032: Bone_Bldg_Tech_Lab_p_26
+    400034: Bone_Bldg_Tech_Lab_p_26_end
+    400036: Bone_Bldg_Tech_Lab_p_29
+    400038: Bone_Bldg_Tech_Lab_p_30
+    400040: Bone_Bldg_Tech_Lab_p_31
+    400042: Bone_Bldg_Tech_Lab_p_34
+    400044: Bone_Bldg_Tech_Lab_p_34_end
+    400046: Bone_Link_Object
+    400048: Camera
+    400050: HitTestFuzzy
+    400052: HitTestFuzzy01
+    400054: HitTestFuzzy01_end
+    400056: HitTestFuzzy02
+    400058: HitTestFuzzy02_end
+    400060: HitTestFuzzy_end
+    400062: HitTestTight
+    400064: HitTestTight_end
+    400066: Lamp
+    400068: Mesh
+    400070: Ref_Center
+    400072: Ref_Center_end
+    400074: Ref_Damage
+    400076: Ref_Damage 01
+    400078: Ref_Damage 01_end
+    400080: Ref_Damage 02
+    400082: Ref_Damage 02_end
+    400084: Ref_Damage_end
+    400086: Ref_Origin
+    400088: Ref_Origin_end
+    400090: Ref_Overhead
+    400092: Ref_Overhead_end
+    400094: Star2Force01
+    400096: Star2Force01_end
+    400098: Star2Part01
+    400100: Star2Part01_end
+    400102: Star2Part01exhaust
+    400104: Star2Part01exhaust02
+    400106: Star2Part01exhaust02_end
+    400108: Star2Part01exhaust_end
+    400110: Star2Part02
+    400112: Star2Part02_end
+    400114: Star2Part04
+    400116: Star2Part04_end
+    400118: //RootNode
+    400120: Vol_Target
+    400122: Vol_Target 01
+    400124: Vol_Target 01_end
+    400126: Vol_Target_end
+    2000000: Camera
+    4300000: Mesh
+    7400000: Armature Object|Armature ObjectBuild A Stand
+    7400002: Armature Object|Armature ObjectBuild A Start
+    7400004: Armature Object|Armature ObjectBuild B Stand
+    7400006: Armature Object|Armature ObjectBuild B Start
+    7400008: Armature Object|Armature ObjectBuild C Stand
+    7400010: Armature Object|Armature ObjectBuild C Start
+    7400012: Armature Object|Armature ObjectBuild D Start
+    7400014: Armature Object|Armature ObjectStand
+    7400016: Armature Object|Armature ObjectStand Attached
+    7400018: Armature Object|Armature ObjectStand Attached End
+    7400020: Armature Object|Armature ObjectStand Attached Start
+    7400022: Armature Object|Armature ObjectStand Attached Work
+    7400024: Armature Object|Armature ObjectStand Attached Work End
+    7400026: Armature Object|Armature ObjectStand Attached Work Start
+    7400028: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

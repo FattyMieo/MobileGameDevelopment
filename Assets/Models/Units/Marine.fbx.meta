@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 5aaecf75158405840a64f549ae21d258
+timeCreated: 1511241668
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: BoneArmL
+    100004: BoneArmR
+    100006: BoneCalfL
+    100008: BoneCalfR
+    100010: BoneFootL
+    100012: BoneFootL_end
+    100014: BoneFootR
+    100016: BoneFootR_end
+    100018: BoneForeArmL
+    100020: BoneForeArmR
+    100022: BoneHandL
+    100024: BoneHandL_end
+    100026: BoneHandR
+    100028: BoneHead
+    100030: BoneHipL
+    100032: BoneHipR
+    100034: BoneLegL
+    100036: BoneLegR
+    100038: BoneShoulderL
+    100040: BoneShoulderR
+    100042: BoneSpine01
+    100044: BoneSpine02
+    100046: BoneWaist
+    100048: Camera
+    100050: HitTestFuzzy
+    100052: HitTestFuzzy01
+    100054: HitTestFuzzy01_end
+    100056: HitTestFuzzy02
+    100058: HitTestFuzzy02_end
+    100060: HitTestFuzzy_end
+    100062: HitTestTight
+    100064: HitTestTight_end
+    100066: Lamp
+    100068: Main
+    100070: //RootNode
+    100072: MarineMesh
+    100074: MarineMesh_end
+    100076: Mesh
+    100078: Ref_Center
+    100080: Ref_Center_end
+    100082: Ref_HardPoint
+    100084: Ref_Hardpoint 01
+    100086: Ref_Hardpoint 01_end
+    100088: Ref_Hardpoint 02
+    100090: Ref_Hardpoint 02_end
+    100092: Ref_HardPoint_end
+    100094: Ref_Head
+    100096: Ref_Head_end
+    100098: Ref_Origin
+    100100: Ref_Origin_end
+    100102: Ref_Overhead
+    100104: Ref_Overhead_end
+    100106: Ref_Weapon
+    100108: Ref_Weapon_end
+    100110: Root
+    100112: Shield
+    100114: Shield 1
+    100116: Star2Omni05
+    100118: Star2Omni05_end
+    100120: Vol_Target
+    100122: Vol_Target_end
+    400000: Armature Object
+    400002: BoneArmL
+    400004: BoneArmR
+    400006: BoneCalfL
+    400008: BoneCalfR
+    400010: BoneFootL
+    400012: BoneFootL_end
+    400014: BoneFootR
+    400016: BoneFootR_end
+    400018: BoneForeArmL
+    400020: BoneForeArmR
+    400022: BoneHandL
+    400024: BoneHandL_end
+    400026: BoneHandR
+    400028: BoneHead
+    400030: BoneHipL
+    400032: BoneHipR
+    400034: BoneLegL
+    400036: BoneLegR
+    400038: BoneShoulderL
+    400040: BoneShoulderR
+    400042: BoneSpine01
+    400044: BoneSpine02
+    400046: BoneWaist
+    400048: Camera
+    400050: HitTestFuzzy
+    400052: HitTestFuzzy01
+    400054: HitTestFuzzy01_end
+    400056: HitTestFuzzy02
+    400058: HitTestFuzzy02_end
+    400060: HitTestFuzzy_end
+    400062: HitTestTight
+    400064: HitTestTight_end
+    400066: Lamp
+    400068: Main
+    400070: //RootNode
+    400072: MarineMesh
+    400074: MarineMesh_end
+    400076: Mesh
+    400078: Ref_Center
+    400080: Ref_Center_end
+    400082: Ref_HardPoint
+    400084: Ref_Hardpoint 01
+    400086: Ref_Hardpoint 01_end
+    400088: Ref_Hardpoint 02
+    400090: Ref_Hardpoint 02_end
+    400092: Ref_HardPoint_end
+    400094: Ref_Head
+    400096: Ref_Head_end
+    400098: Ref_Origin
+    400100: Ref_Origin_end
+    400102: Ref_Overhead
+    400104: Ref_Overhead_end
+    400106: Ref_Weapon
+    400108: Ref_Weapon_end
+    400110: Root
+    400112: Shield
+    400114: Shield 1
+    400116: Star2Omni05
+    400118: Star2Omni05_end
+    400120: Vol_Target
+    400122: Vol_Target_end
+    2000000: Camera
+    4300000: Mesh
+    4300002: Shield
+    7400000: Armature Object|Armature ObjectAttack
+    7400002: Armature Object|Armature ObjectAttack 01
+    7400004: Armature Object|Armature ObjectAttack Inferior
+    7400006: Armature Object|Armature ObjectAttack Superior
+    7400008: Armature Object|Armature ObjectCover
+    7400010: Armature Object|Armature ObjectFidget
+    7400012: Armature Object|Armature ObjectSpell
+    7400014: Armature Object|Armature ObjectStand
+    7400016: Armature Object|Armature ObjectStand 01
+    7400018: Armature Object|Armature ObjectStand Dance
+    7400020: Armature Object|Armature ObjectStand Dance 01
+    7400022: Armature Object|Armature ObjectStand Dance 02
+    7400024: Armature Object|Armature ObjectStand Dance 03
+    7400026: Armature Object|Armature ObjectStand Left
+    7400028: Armature Object|Armature ObjectStand Left Ready
+    7400030: Armature Object|Armature ObjectStand Ready
+    7400032: Armature Object|Armature ObjectStand Right
+    7400034: Armature Object|Armature ObjectStand Right Ready
+    7400036: Armature Object|Armature ObjectStand Victory
+    7400038: Armature Object|Armature ObjectStand Victory 01
+    7400040: Armature Object|Armature ObjectUnload
+    7400042: Armature Object|Armature ObjectUnload End
+    7400044: Armature Object|Armature ObjectWalk
+    7400046: Armature Object|Armature ObjectWalk Slow
+    7400048: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Mesh
+    13700002: Shield
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

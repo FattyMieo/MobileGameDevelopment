@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 8862bc87fd9a3054ba656487ef583ca0
+timeCreated: 1511241699
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: Bldg_Terran_EngineeringBay_01
+    100004: Bldg_Terran_EngineeringBay_02
+    100006: Bldg_Terran_EngineeringBay_02_end
+    100008: Bldg_Terran_EngineeringBay_03
+    100010: Bldg_Terran_EngineeringBay_03_end
+    100012: Bldg_Terran_EngineeringBay_04
+    100014: Bldg_Terran_EngineeringBay_04_end
+    100016: Bldg_Terran_EngineeringBay_05
+    100018: Bldg_Terran_EngineeringBay_05_end
+    100020: Bldg_Terran_EngineeringBay_06
+    100022: Bldg_Terran_EngineeringBay_06_end
+    100024: Bldg_Terran_EngineeringBay_07
+    100026: Bldg_Terran_EngineeringBay_11
+    100028: Bldg_Terran_EngineeringBay_12
+    100030: Bldg_Terran_EngineeringBay_13
+    100032: Bldg_Terran_EngineeringBay_14
+    100034: Bldg_Terran_EngineeringBay_14_end
+    100036: Bldg_Terran_EngineeringBay_15
+    100038: Bldg_Terran_EngineeringBay_15_end
+    100040: Bldg_Terran_EngineeringBay_16
+    100042: Bldg_Terran_EngineeringBay_16_end
+    100044: Bldg_Terran_EngineeringBay_17
+    100046: Bldg_Terran_EngineeringBay_17_end
+    100048: Bone_Link_Object
+    100050: Camera
+    100052: //RootNode
+    100054: HitTestFuzzy
+    100056: HitTestFuzzy01
+    100058: HitTestFuzzy01_end
+    100060: HitTestFuzzy_end
+    100062: HitTestTight
+    100064: HitTestTight_end
+    100066: Lamp
+    100068: Mesh
+    100070: Ref_Center
+    100072: Ref_Center_end
+    100074: Ref_Damage
+    100076: Ref_Damage 01
+    100078: Ref_Damage 01_end
+    100080: Ref_Damage 02
+    100082: Ref_Damage 02_end
+    100084: Ref_Damage 03
+    100086: Ref_Damage 03_end
+    100088: Ref_Damage 04
+    100090: Ref_Damage 04_end
+    100092: Ref_Damage_end
+    100094: Ref_Origin
+    100096: Ref_Origin_end
+    100098: Ref_Overhead
+    100100: Ref_Overhead_end
+    100102: Star2_Particle_Booster_Fire
+    100104: Star2_Particle_Booster_Fire_end
+    100106: Star2_Particle_Booster_Glow
+    100108: Star2_Particle_Booster_Glow_end
+    100110: Star2_Particle_Booster_Smoke
+    100112: Star2_Particle_Booster_Smoke_end
+    100114: Star2_Particle_Booster_Sparks
+    100116: Star2_Particle_Booster_Sparks_end
+    100118: Star2_Particle_Exhaust_01
+    100120: Star2_Particle_Exhaust_01_end
+    100122: Star2_Particle_Jet_01
+    100124: Star2_Particle_Jet_01_end
+    100126: Star2_Particle_Jet_02
+    100128: Star2_Particle_Jet_02_end
+    100130: Star2_Particle_Jet_03
+    100132: Star2_Particle_Jet_03_end
+    100134: Star2_Particle_Liftoff_01
+    100136: Star2_Particle_Liftoff_01_end
+    100138: Star2_Particle_Liftoff_Debris
+    100140: Star2_Particle_Liftoff_Debris_end
+    100142: Star2Part_RedLight
+    100144: Star2Part_RedLight_end
+    100146: Star2PartStar2_Particle_Exhaust
+    100148: Star2PartStar2_Particle_Exhaust_end
+    100150: Star2PartStar2_Particle_Liftoff
+    100152: Star2PartStar2_Particle_Liftoff_end
+    100154: Vol_Target
+    100156: Vol_Target 01
+    100158: Vol_Target 01_end
+    100160: Vol_Target 02
+    100162: Vol_Target 02_end
+    100164: Vol_Target 03
+    100166: Vol_Target 03_end
+    100168: Vol_Target_end
+    400000: Armature Object
+    400002: Bldg_Terran_EngineeringBay_01
+    400004: Bldg_Terran_EngineeringBay_02
+    400006: Bldg_Terran_EngineeringBay_02_end
+    400008: Bldg_Terran_EngineeringBay_03
+    400010: Bldg_Terran_EngineeringBay_03_end
+    400012: Bldg_Terran_EngineeringBay_04
+    400014: Bldg_Terran_EngineeringBay_04_end
+    400016: Bldg_Terran_EngineeringBay_05
+    400018: Bldg_Terran_EngineeringBay_05_end
+    400020: Bldg_Terran_EngineeringBay_06
+    400022: Bldg_Terran_EngineeringBay_06_end
+    400024: Bldg_Terran_EngineeringBay_07
+    400026: Bldg_Terran_EngineeringBay_11
+    400028: Bldg_Terran_EngineeringBay_12
+    400030: Bldg_Terran_EngineeringBay_13
+    400032: Bldg_Terran_EngineeringBay_14
+    400034: Bldg_Terran_EngineeringBay_14_end
+    400036: Bldg_Terran_EngineeringBay_15
+    400038: Bldg_Terran_EngineeringBay_15_end
+    400040: Bldg_Terran_EngineeringBay_16
+    400042: Bldg_Terran_EngineeringBay_16_end
+    400044: Bldg_Terran_EngineeringBay_17
+    400046: Bldg_Terran_EngineeringBay_17_end
+    400048: Bone_Link_Object
+    400050: Camera
+    400052: //RootNode
+    400054: HitTestFuzzy
+    400056: HitTestFuzzy01
+    400058: HitTestFuzzy01_end
+    400060: HitTestFuzzy_end
+    400062: HitTestTight
+    400064: HitTestTight_end
+    400066: Lamp
+    400068: Mesh
+    400070: Ref_Center
+    400072: Ref_Center_end
+    400074: Ref_Damage
+    400076: Ref_Damage 01
+    400078: Ref_Damage 01_end
+    400080: Ref_Damage 02
+    400082: Ref_Damage 02_end
+    400084: Ref_Damage 03
+    400086: Ref_Damage 03_end
+    400088: Ref_Damage 04
+    400090: Ref_Damage 04_end
+    400092: Ref_Damage_end
+    400094: Ref_Origin
+    400096: Ref_Origin_end
+    400098: Ref_Overhead
+    400100: Ref_Overhead_end
+    400102: Star2_Particle_Booster_Fire
+    400104: Star2_Particle_Booster_Fire_end
+    400106: Star2_Particle_Booster_Glow
+    400108: Star2_Particle_Booster_Glow_end
+    400110: Star2_Particle_Booster_Smoke
+    400112: Star2_Particle_Booster_Smoke_end
+    400114: Star2_Particle_Booster_Sparks
+    400116: Star2_Particle_Booster_Sparks_end
+    400118: Star2_Particle_Exhaust_01
+    400120: Star2_Particle_Exhaust_01_end
+    400122: Star2_Particle_Jet_01
+    400124: Star2_Particle_Jet_01_end
+    400126: Star2_Particle_Jet_02
+    400128: Star2_Particle_Jet_02_end
+    400130: Star2_Particle_Jet_03
+    400132: Star2_Particle_Jet_03_end
+    400134: Star2_Particle_Liftoff_01
+    400136: Star2_Particle_Liftoff_01_end
+    400138: Star2_Particle_Liftoff_Debris
+    400140: Star2_Particle_Liftoff_Debris_end
+    400142: Star2Part_RedLight
+    400144: Star2Part_RedLight_end
+    400146: Star2PartStar2_Particle_Exhaust
+    400148: Star2PartStar2_Particle_Exhaust_end
+    400150: Star2PartStar2_Particle_Liftoff
+    400152: Star2PartStar2_Particle_Liftoff_end
+    400154: Vol_Target
+    400156: Vol_Target 01
+    400158: Vol_Target 01_end
+    400160: Vol_Target 02
+    400162: Vol_Target 02_end
+    400164: Vol_Target 03
+    400166: Vol_Target 03_end
+    400168: Vol_Target_end
+    2000000: Camera
+    4300000: Mesh
+    7400000: Armature Object|Armature ObjectBuild A Stand
+    7400002: Armature Object|Armature ObjectBuild A Start
+    7400004: Armature Object|Armature ObjectBuild B Stand
+    7400006: Armature Object|Armature ObjectBuild B Start
+    7400008: Armature Object|Armature ObjectBuild C Stand
+    7400010: Armature Object|Armature ObjectBuild C Start
+    7400012: Armature Object|Armature ObjectBuild D Start
+    7400014: Armature Object|Armature ObjectFly End
+    7400016: Armature Object|Armature ObjectFly Stand
+    7400018: Armature Object|Armature ObjectFly Start
+    7400020: Armature Object|Armature ObjectFly Walk
+    7400022: Armature Object|Armature ObjectStand
+    7400024: Armature Object|Armature ObjectStand Work
+    7400026: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

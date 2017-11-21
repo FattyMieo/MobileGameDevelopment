@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 87558f95ff36239428ecdf5530fc3371
+timeCreated: 1511241697
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: Bldg_Terran_Reactor_01
+    100004: Bldg_Terran_Reactor_01_end
+    100006: Bldg_Terran_Reactor_02
+    100008: Bldg_Terran_Reactor_02_end
+    100010: Bldg_Terran_Reactor_04
+    100012: Bldg_Terran_Reactor_04_end
+    100014: Bldg_Terran_Reactor_05
+    100016: Bldg_Terran_Reactor_05_end
+    100018: Bldg_Terran_Reactor_Base02
+    100020: Bldg_Terran_Reactor_Base02_end
+    100022: Bldg_Terran_Reactor_Base_01
+    100024: Bldg_Terran_Reactor_Base_01_end
+    100026: Bldg_Terran_Reactor_Base_02
+    100028: Bldg_Terran_Reactor_Base_02_end
+    100030: Bldg_Terran_Reactor_Base_03
+    100032: Bldg_Terran_Reactor_Base_03_end
+    100034: Bldg_Terran_Reactor_Base_04
+    100036: Bldg_Terran_Reactor_Base_04_end
+    100038: Bldg_Terran_Reactor_Base_05
+    100040: Bldg_Terran_Reactor_Base_05_end
+    100042: Bldg_Terran_Reactor_Base_06
+    100044: Bldg_Terran_Reactor_Base_06_end
+    100046: Bldg_Terran_Reactor_Base_07
+    100048: Bldg_Terran_Reactor_Base_07_end
+    100050: Camera
+    100052: Dummy01
+    100054: Lamp
+    100056: Mesh
+    100058: Object05
+    100060: Object05_end
+    100062: Object06
+    100064: Object06_end
+    100066: Object07
+    100068: Object07_end
+    100070: //RootNode
+    100072: Star2 projector_TerranBlastSmall
+    100074: Star2 projector_TerranBlastSmall.001
+    100076: Star2 projector_TerranBlastSmall.001_end
+    100078: Star2 projector_TerranBlastSmall_end
+    100080: Star2Omni01
+    100082: Star2Omni01_end
+    100084: Star2Part01debris01
+    100086: Star2Part01debris01_end
+    100088: Star2Part01trailparernt
+    100090: Star2Part01trailparernt_end
+    100092: Star2Part_BigFire
+    100094: Star2Part_BigFire_end
+    100096: Star2Part_EndSmoke
+    100098: Star2Part_EndSmoke_end
+    100100: Star2Part_Sparks
+    100102: Star2Part_Sparks_end
+    100104: Star2PartFirenewsmokering
+    100106: Star2PartFirenewsmokering_end
+    100108: Star2PartSmokeTendril1x
+    100110: Star2PartSmokeTendril1x_end
+    100112: Star2Partsmoketrailz
+    100114: Star2Partsmoketrailz_end
+    400000: Armature Object
+    400002: Bldg_Terran_Reactor_01
+    400004: Bldg_Terran_Reactor_01_end
+    400006: Bldg_Terran_Reactor_02
+    400008: Bldg_Terran_Reactor_02_end
+    400010: Bldg_Terran_Reactor_04
+    400012: Bldg_Terran_Reactor_04_end
+    400014: Bldg_Terran_Reactor_05
+    400016: Bldg_Terran_Reactor_05_end
+    400018: Bldg_Terran_Reactor_Base02
+    400020: Bldg_Terran_Reactor_Base02_end
+    400022: Bldg_Terran_Reactor_Base_01
+    400024: Bldg_Terran_Reactor_Base_01_end
+    400026: Bldg_Terran_Reactor_Base_02
+    400028: Bldg_Terran_Reactor_Base_02_end
+    400030: Bldg_Terran_Reactor_Base_03
+    400032: Bldg_Terran_Reactor_Base_03_end
+    400034: Bldg_Terran_Reactor_Base_04
+    400036: Bldg_Terran_Reactor_Base_04_end
+    400038: Bldg_Terran_Reactor_Base_05
+    400040: Bldg_Terran_Reactor_Base_05_end
+    400042: Bldg_Terran_Reactor_Base_06
+    400044: Bldg_Terran_Reactor_Base_06_end
+    400046: Bldg_Terran_Reactor_Base_07
+    400048: Bldg_Terran_Reactor_Base_07_end
+    400050: Camera
+    400052: Dummy01
+    400054: Lamp
+    400056: Mesh
+    400058: Object05
+    400060: Object05_end
+    400062: Object06
+    400064: Object06_end
+    400066: Object07
+    400068: Object07_end
+    400070: //RootNode
+    400072: Star2 projector_TerranBlastSmall
+    400074: Star2 projector_TerranBlastSmall.001
+    400076: Star2 projector_TerranBlastSmall.001_end
+    400078: Star2 projector_TerranBlastSmall_end
+    400080: Star2Omni01
+    400082: Star2Omni01_end
+    400084: Star2Part01debris01
+    400086: Star2Part01debris01_end
+    400088: Star2Part01trailparernt
+    400090: Star2Part01trailparernt_end
+    400092: Star2Part_BigFire
+    400094: Star2Part_BigFire_end
+    400096: Star2Part_EndSmoke
+    400098: Star2Part_EndSmoke_end
+    400100: Star2Part_Sparks
+    400102: Star2Part_Sparks_end
+    400104: Star2PartFirenewsmokering
+    400106: Star2PartFirenewsmokering_end
+    400108: Star2PartSmokeTendril1x
+    400110: Star2PartSmokeTendril1x_end
+    400112: Star2Partsmoketrailz
+    400114: Star2Partsmoketrailz_end
+    2000000: Camera
+    4300000: Mesh
+    7400000: Armature Object|Armature ObjectDeath
+    7400002: Armature Object|Armature ObjectDeath 01
+    7400004: Armature Object|Armature ObjectDeath 02
+    7400006: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 78578dba8edf9614c8bc3b482fc2b06f
+timeCreated: 1511241695
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: BaseDummy
+    100004: Bldg_Terran_CommandCenter_Antenne
+    100006: Bldg_Terran_CommandCenter_Antenne_end
+    100008: Bldg_Terran_CommandCenter_Decal
+    100010: Bldg_Terran_CommandCenter_Decal_end
+    100012: Bldg_Terran_CommandCenter_Flap_01
+    100014: Bldg_Terran_CommandCenter_Flap_01_end
+    100016: Bldg_Terran_CommandCenter_Flap_02
+    100018: Bldg_Terran_CommandCenter_Flap_02_end
+    100020: Bldg_Terran_CommandCenter_Flap_03
+    100022: Bldg_Terran_CommandCenter_Flap_03_end
+    100024: Bldg_Terran_CommandCenter_Flap_04
+    100026: Bldg_Terran_CommandCenter_Flap_04_end
+    100028: Bldg_Terran_CommandCenter_Foot_01
+    100030: Bldg_Terran_CommandCenter_Foot_01_end
+    100032: Bldg_Terran_CommandCenter_Foot_02
+    100034: Bldg_Terran_CommandCenter_Foot_02_end
+    100036: Bldg_Terran_CommandCenter_Foot_03
+    100038: Bldg_Terran_CommandCenter_Foot_03_end
+    100040: Bldg_Terran_CommandCenter_Foot_04
+    100042: Bldg_Terran_CommandCenter_Foot_04_end
+    100044: Bldg_Terran_CommandCenter_Joint_01
+    100046: Bldg_Terran_CommandCenter_Joint_02
+    100048: Bldg_Terran_CommandCenter_Joint_03
+    100050: Bldg_Terran_CommandCenter_Joint_04
+    100052: Bldg_Terran_CommandCenter_Main
+    100054: Bldg_Terran_CommandCenter_Ramp
+    100056: Bldg_Terran_CommandCenter_Ramp_end
+    100058: Bldg_Terran_CommandCenter_Side
+    100060: Bldg_Terran_CommandCenter_Turret
+    100062: Bldg_Terran_CommandCenter_Turret_01
+    100064: Bldg_Terran_CommandCenter_Turret_02
+    100066: Bldg_Terran_CommandCenter_Turret_02_end
+    100068: Bldg_Terran_Comstat_Antenne
+    100070: Bldg_Terran_Comstat_Antenne_end
+    100072: Bldg_Terran_Comstat_Dish_01
+    100074: Bldg_Terran_Comstat_Dish_02
+    100076: Bldg_Terran_Comstat_Dish_03
+    100078: Bldg_Terran_Comstat_Dish_03_end
+    100080: Bldg_Terran_Comstat_Dish_04
+    100082: Bldg_Terran_Comstat_DishBase
+    100084: Bldg_Terran_Comstat_DishFlipper
+    100086: Bldg_Terran_Comstat_DishMount
+    100088: Bldg_Terran_Comstat_Front
+    100090: Bldg_Terran_Comstat_Front_end
+    100092: Bldg_Terran_Comstat_Pipes_01
+    100094: Bldg_Terran_Planetary_Armor_01
+    100096: Bldg_Terran_Planetary_Armor_02
+    100098: Bldg_Terran_Planetary_Barrels
+    100100: Bldg_Terran_Planetary_Base
+    100102: Bldg_Terran_Planetary_Front
+    100104: Bldg_Terran_Planetary_Front_end
+    100106: Bldg_Terran_Planetary_Guns_01
+    100108: Bldg_Terran_Planetary_Guns_01_end
+    100110: Bldg_Terran_Planetary_Pivots
+    100112: Bone_Link_Object
+    100114: Bottom_Flare
+    100116: Bottom_Flare 1
+    100118: Bottom_Flare_end
+    100120: Camera
+    100122: //RootNode
+    100124: Dummy01
+    100126: Hazard light
+    100128: Hazard light01
+    100130: HitTestFuzzy01
+    100132: HitTestFuzzy01_end
+    100134: HitTestFuzzy02
+    100136: HitTestFuzzy02_end
+    100138: HitTestFuzzy03
+    100140: HitTestFuzzy03_end
+    100142: HitTestFuzzy04
+    100144: HitTestFuzzy04_end
+    100146: HitTestFuzzy05
+    100148: HitTestFuzzy05_end
+    100150: HitTestFuzzy06
+    100152: HitTestFuzzy06_end
+    100154: HitTestFuzzy07
+    100156: HitTestFuzzy07_end
+    100158: HitTestFuzzy08
+    100160: HitTestFuzzy08_end
+    100162: HitTestFuzzy09
+    100164: HitTestFuzzy09_end
+    100166: HitTestFuzzy10
+    100168: HitTestFuzzy10_end
+    100170: HitTestTight
+    100172: HitTestTight_end
+    100174: INSTANCE_Cons_Side
+    100176: INSTANCE_Cons_Side_end
+    100178: Lamp
+    100180: Mesh
+    100182: Mesh.001
+    100184: Mesh.002
+    100186: Mesh.003
+    100188: Mesh.004
+    100190: Mesh.005
+    100192: Object02
+    100194: Object02_end
+    100196: Ref_Center
+    100198: Ref_Center_end
+    100200: Ref_Damage
+    100202: Ref_Damage 01
+    100204: Ref_Damage 01_end
+    100206: Ref_Damage 02
+    100208: Ref_Damage 02_end
+    100210: Ref_Damage 03
+    100212: Ref_Damage 03_end
+    100214: Ref_Damage 04
+    100216: Ref_Damage 04_end
+    100218: Ref_Damage 05
+    100220: Ref_Damage 05_end
+    100222: Ref_Damage 06
+    100224: Ref_Damage 06_end
+    100226: Ref_Damage 07
+    100228: Ref_Damage 07_end
+    100230: Ref_Damage 08
+    100232: Ref_Damage 08_end
+    100234: Ref_Damage 09
+    100236: Ref_Damage 09_end
+    100238: Ref_Damage 10
+    100240: Ref_Damage 10_end
+    100242: Ref_Damage_end
+    100244: Ref_Hardpoint
+    100246: Ref_Hardpoint_end
+    100248: Ref_Origin
+    100250: Ref_Origin_end
+    100252: Ref_Overhead
+    100254: Ref_Overhead_end
+    100256: Ref_TurretZ
+    100258: Ref_Weapon
+    100260: Ref_Weapon 01
+    100262: Ref_Weapon 01_end
+    100264: Ref_Weapon_end
+    100266: Sphere01distortion02
+    100268: Sphere01distortion02 1
+    100270: Sphere01distortion02_end
+    100272: Star2_Light_Liftoff
+    100274: Star2_Part_VentSteam
+    100276: Star2_Part_Work
+    100278: Star2Omni01
+    100280: Star2Omni01_end
+    100282: Star2Omni02
+    100284: Star2Omni02_end
+    100286: Star2Omni02~DUP~0
+    100288: Star2Omni02~DUP~0_end
+    100290: Star2Omni04
+    100292: Star2Omni04_end
+    100294: Star2Omni05
+    100296: Star2Omni05_end
+    100298: Star2Omni06
+    100300: Star2Omni069
+    100302: Star2Omni069_end
+    100304: Star2Omni06_end
+    100306: Star2Omni07
+    100308: Star2Omni07_end
+    100310: Star2Omni70
+    100312: Star2Omni70_end
+    100314: Star2Part01
+    100316: Star2Part01_end
+    100318: Star2Part01exhaust
+    100320: Star2Part01exhaust01
+    100322: Star2Part01exhaust01_end
+    100324: Star2Part01exhaust02
+    100326: Star2Part01exhaust02_end
+    100328: Star2Part01exhaust03
+    100330: Star2Part01exhaust03_end
+    100332: Star2Part01exhaust04
+    100334: Star2Part01exhaust04_end
+    100336: Star2Part01exhaust05up
+    100338: Star2Part01exhaust05up_end
+    100340: Star2Part01exhaust_end
+    100342: Star2Part01jetfire01
+    100344: Star2Part01jetfire01_end
+    100346: Star2Part01jetfire02
+    100348: Star2Part01jetfire02_end
+    100350: Star2Part01jetfire03
+    100352: Star2Part01jetfire03_end
+    100354: Star2Part01jetfire04
+    100356: Star2Part01jetfire04_end
+    100358: Star2Part01jetfire05
+    100360: Star2Part01jetfire05_end
+    100362: Star2Part01jetfire06
+    100364: Star2Part01jetfire06_end
+    100366: Star2Part01jetfire07
+    100368: Star2Part01jetfire07_end
+    100370: Star2Part02
+    100372: Star2Part02_end
+    100374: Star2Part03
+    100376: Star2Part03_end
+    100378: Star2Part03jet06smoke
+    100380: Star2Part03jet06smoke01
+    100382: Star2Part03jet06smoke01_end
+    100384: Star2Part03jet06smoke02
+    100386: Star2Part03jet06smoke02_end
+    100388: Star2Part03jet06smoke_end
+    100390: Star2Part03jet06sparks
+    100392: Star2Part03jet06sparks01
+    100394: Star2Part03jet06sparks01_end
+    100396: Star2Part03jet06sparks02
+    100398: Star2Part03jet06sparks02_end
+    100400: Star2Part03jet06sparks_end
+    100402: Star2Part03liftoffdebris
+    100404: Star2Part03liftoffdebris_end
+    100406: Star2Part04jetglow01
+    100408: Star2Part04jetglow01_end
+    100410: Star2Part04jetglow02
+    100412: Star2Part04jetglow02_end
+    100414: Star2Part04jetglow03
+    100416: Star2Part04jetglow03_end
+    100418: Star2Part05lioghtflash01
+    100420: Star2Part05lioghtflash01_end
+    100422: Star2Part10Shells
+    100424: Star2Part10Shells01
+    100426: Star2Part10Shells01_end
+    100428: Star2Part10Shells_end
+    100430: Star2Part31big smoke
+    100432: Star2Part31big smoke_end
+    100434: Star2PartSpinn
+    100436: Star2PartSpinn01
+    100438: Star2PartSpinn01_end
+    100440: Star2PartSpinn_end
+    100442: Star2Ribbon01heatwave02
+    100444: Star2Ribbon01heatwave02_end
+    100446: Star2Ribbon01heatwave03
+    100448: Star2Ribbon01heatwave03_end
+    100450: Unit_Terran_Construc_Panel_01
+    100452: Unit_Terran_Construc_Panel_02
+    100454: Unit_Terran_Construc_Panel_02_end
+    100456: Unit_Terran_Construc_Panel_03
+    100458: Unit_Terran_Construc_Panel_03_end
+    100460: Unit_Terran_Construc_Panel_04
+    100462: Unit_Terran_Construc_Panel_04_end
+    100464: Unit_Terran_Construc_Panel_05
+    100466: Unit_Terran_Construc_Panel_05_end
+    100468: Unit_Terran_Construc_Panel_06
+    100470: Unit_Terran_Construc_Panel_06_end
+    100472: Vol_Target
+    100474: Vol_Target 01
+    100476: Vol_Target 01_end
+    100478: Vol_Target 02
+    100480: Vol_Target 02_end
+    100482: Vol_Target 03
+    100484: Vol_Target 03_end
+    100486: Vol_Target 04
+    100488: Vol_Target 04_end
+    100490: Vol_Target 05
+    100492: Vol_Target 05_end
+    100494: Vol_Target 06
+    100496: Vol_Target 06_end
+    100498: Vol_Target 07
+    100500: Vol_Target 07_end
+    100502: Vol_Target 08
+    100504: Vol_Target 08_end
+    100506: Vol_Target 10
+    100508: Vol_Target 10_end
+    100510: Vol_Target 11
+    100512: Vol_Target 11_end
+    100514: Vol_Target_end
+    400000: Armature Object
+    400002: BaseDummy
+    400004: Bldg_Terran_CommandCenter_Antenne
+    400006: Bldg_Terran_CommandCenter_Antenne_end
+    400008: Bldg_Terran_CommandCenter_Decal
+    400010: Bldg_Terran_CommandCenter_Decal_end
+    400012: Bldg_Terran_CommandCenter_Flap_01
+    400014: Bldg_Terran_CommandCenter_Flap_01_end
+    400016: Bldg_Terran_CommandCenter_Flap_02
+    400018: Bldg_Terran_CommandCenter_Flap_02_end
+    400020: Bldg_Terran_CommandCenter_Flap_03
+    400022: Bldg_Terran_CommandCenter_Flap_03_end
+    400024: Bldg_Terran_CommandCenter_Flap_04
+    400026: Bldg_Terran_CommandCenter_Flap_04_end
+    400028: Bldg_Terran_CommandCenter_Foot_01
+    400030: Bldg_Terran_CommandCenter_Foot_01_end
+    400032: Bldg_Terran_CommandCenter_Foot_02
+    400034: Bldg_Terran_CommandCenter_Foot_02_end
+    400036: Bldg_Terran_CommandCenter_Foot_03
+    400038: Bldg_Terran_CommandCenter_Foot_03_end
+    400040: Bldg_Terran_CommandCenter_Foot_04
+    400042: Bldg_Terran_CommandCenter_Foot_04_end
+    400044: Bldg_Terran_CommandCenter_Joint_01
+    400046: Bldg_Terran_CommandCenter_Joint_02
+    400048: Bldg_Terran_CommandCenter_Joint_03
+    400050: Bldg_Terran_CommandCenter_Joint_04
+    400052: Bldg_Terran_CommandCenter_Main
+    400054: Bldg_Terran_CommandCenter_Ramp
+    400056: Bldg_Terran_CommandCenter_Ramp_end
+    400058: Bldg_Terran_CommandCenter_Side
+    400060: Bldg_Terran_CommandCenter_Turret
+    400062: Bldg_Terran_CommandCenter_Turret_01
+    400064: Bldg_Terran_CommandCenter_Turret_02
+    400066: Bldg_Terran_CommandCenter_Turret_02_end
+    400068: Bldg_Terran_Comstat_Antenne
+    400070: Bldg_Terran_Comstat_Antenne_end
+    400072: Bldg_Terran_Comstat_Dish_01
+    400074: Bldg_Terran_Comstat_Dish_02
+    400076: Bldg_Terran_Comstat_Dish_03
+    400078: Bldg_Terran_Comstat_Dish_03_end
+    400080: Bldg_Terran_Comstat_Dish_04
+    400082: Bldg_Terran_Comstat_DishBase
+    400084: Bldg_Terran_Comstat_DishFlipper
+    400086: Bldg_Terran_Comstat_DishMount
+    400088: Bldg_Terran_Comstat_Front
+    400090: Bldg_Terran_Comstat_Front_end
+    400092: Bldg_Terran_Comstat_Pipes_01
+    400094: Bldg_Terran_Planetary_Armor_01
+    400096: Bldg_Terran_Planetary_Armor_02
+    400098: Bldg_Terran_Planetary_Barrels
+    400100: Bldg_Terran_Planetary_Base
+    400102: Bldg_Terran_Planetary_Front
+    400104: Bldg_Terran_Planetary_Front_end
+    400106: Bldg_Terran_Planetary_Guns_01
+    400108: Bldg_Terran_Planetary_Guns_01_end
+    400110: Bldg_Terran_Planetary_Pivots
+    400112: Bone_Link_Object
+    400114: Bottom_Flare
+    400116: Bottom_Flare 1
+    400118: Bottom_Flare_end
+    400120: Camera
+    400122: //RootNode
+    400124: Dummy01
+    400126: Hazard light
+    400128: Hazard light01
+    400130: HitTestFuzzy01
+    400132: HitTestFuzzy01_end
+    400134: HitTestFuzzy02
+    400136: HitTestFuzzy02_end
+    400138: HitTestFuzzy03
+    400140: HitTestFuzzy03_end
+    400142: HitTestFuzzy04
+    400144: HitTestFuzzy04_end
+    400146: HitTestFuzzy05
+    400148: HitTestFuzzy05_end
+    400150: HitTestFuzzy06
+    400152: HitTestFuzzy06_end
+    400154: HitTestFuzzy07
+    400156: HitTestFuzzy07_end
+    400158: HitTestFuzzy08
+    400160: HitTestFuzzy08_end
+    400162: HitTestFuzzy09
+    400164: HitTestFuzzy09_end
+    400166: HitTestFuzzy10
+    400168: HitTestFuzzy10_end
+    400170: HitTestTight
+    400172: HitTestTight_end
+    400174: INSTANCE_Cons_Side
+    400176: INSTANCE_Cons_Side_end
+    400178: Lamp
+    400180: Mesh
+    400182: Mesh.001
+    400184: Mesh.002
+    400186: Mesh.003
+    400188: Mesh.004
+    400190: Mesh.005
+    400192: Object02
+    400194: Object02_end
+    400196: Ref_Center
+    400198: Ref_Center_end
+    400200: Ref_Damage
+    400202: Ref_Damage 01
+    400204: Ref_Damage 01_end
+    400206: Ref_Damage 02
+    400208: Ref_Damage 02_end
+    400210: Ref_Damage 03
+    400212: Ref_Damage 03_end
+    400214: Ref_Damage 04
+    400216: Ref_Damage 04_end
+    400218: Ref_Damage 05
+    400220: Ref_Damage 05_end
+    400222: Ref_Damage 06
+    400224: Ref_Damage 06_end
+    400226: Ref_Damage 07
+    400228: Ref_Damage 07_end
+    400230: Ref_Damage 08
+    400232: Ref_Damage 08_end
+    400234: Ref_Damage 09
+    400236: Ref_Damage 09_end
+    400238: Ref_Damage 10
+    400240: Ref_Damage 10_end
+    400242: Ref_Damage_end
+    400244: Ref_Hardpoint
+    400246: Ref_Hardpoint_end
+    400248: Ref_Origin
+    400250: Ref_Origin_end
+    400252: Ref_Overhead
+    400254: Ref_Overhead_end
+    400256: Ref_TurretZ
+    400258: Ref_Weapon
+    400260: Ref_Weapon 01
+    400262: Ref_Weapon 01_end
+    400264: Ref_Weapon_end
+    400266: Sphere01distortion02
+    400268: Sphere01distortion02 1
+    400270: Sphere01distortion02_end
+    400272: Star2_Light_Liftoff
+    400274: Star2_Part_VentSteam
+    400276: Star2_Part_Work
+    400278: Star2Omni01
+    400280: Star2Omni01_end
+    400282: Star2Omni02
+    400284: Star2Omni02_end
+    400286: Star2Omni02~DUP~0
+    400288: Star2Omni02~DUP~0_end
+    400290: Star2Omni04
+    400292: Star2Omni04_end
+    400294: Star2Omni05
+    400296: Star2Omni05_end
+    400298: Star2Omni06
+    400300: Star2Omni069
+    400302: Star2Omni069_end
+    400304: Star2Omni06_end
+    400306: Star2Omni07
+    400308: Star2Omni07_end
+    400310: Star2Omni70
+    400312: Star2Omni70_end
+    400314: Star2Part01
+    400316: Star2Part01_end
+    400318: Star2Part01exhaust
+    400320: Star2Part01exhaust01
+    400322: Star2Part01exhaust01_end
+    400324: Star2Part01exhaust02
+    400326: Star2Part01exhaust02_end
+    400328: Star2Part01exhaust03
+    400330: Star2Part01exhaust03_end
+    400332: Star2Part01exhaust04
+    400334: Star2Part01exhaust04_end
+    400336: Star2Part01exhaust05up
+    400338: Star2Part01exhaust05up_end
+    400340: Star2Part01exhaust_end
+    400342: Star2Part01jetfire01
+    400344: Star2Part01jetfire01_end
+    400346: Star2Part01jetfire02
+    400348: Star2Part01jetfire02_end
+    400350: Star2Part01jetfire03
+    400352: Star2Part01jetfire03_end
+    400354: Star2Part01jetfire04
+    400356: Star2Part01jetfire04_end
+    400358: Star2Part01jetfire05
+    400360: Star2Part01jetfire05_end
+    400362: Star2Part01jetfire06
+    400364: Star2Part01jetfire06_end
+    400366: Star2Part01jetfire07
+    400368: Star2Part01jetfire07_end
+    400370: Star2Part02
+    400372: Star2Part02_end
+    400374: Star2Part03
+    400376: Star2Part03_end
+    400378: Star2Part03jet06smoke
+    400380: Star2Part03jet06smoke01
+    400382: Star2Part03jet06smoke01_end
+    400384: Star2Part03jet06smoke02
+    400386: Star2Part03jet06smoke02_end
+    400388: Star2Part03jet06smoke_end
+    400390: Star2Part03jet06sparks
+    400392: Star2Part03jet06sparks01
+    400394: Star2Part03jet06sparks01_end
+    400396: Star2Part03jet06sparks02
+    400398: Star2Part03jet06sparks02_end
+    400400: Star2Part03jet06sparks_end
+    400402: Star2Part03liftoffdebris
+    400404: Star2Part03liftoffdebris_end
+    400406: Star2Part04jetglow01
+    400408: Star2Part04jetglow01_end
+    400410: Star2Part04jetglow02
+    400412: Star2Part04jetglow02_end
+    400414: Star2Part04jetglow03
+    400416: Star2Part04jetglow03_end
+    400418: Star2Part05lioghtflash01
+    400420: Star2Part05lioghtflash01_end
+    400422: Star2Part10Shells
+    400424: Star2Part10Shells01
+    400426: Star2Part10Shells01_end
+    400428: Star2Part10Shells_end
+    400430: Star2Part31big smoke
+    400432: Star2Part31big smoke_end
+    400434: Star2PartSpinn
+    400436: Star2PartSpinn01
+    400438: Star2PartSpinn01_end
+    400440: Star2PartSpinn_end
+    400442: Star2Ribbon01heatwave02
+    400444: Star2Ribbon01heatwave02_end
+    400446: Star2Ribbon01heatwave03
+    400448: Star2Ribbon01heatwave03_end
+    400450: Unit_Terran_Construc_Panel_01
+    400452: Unit_Terran_Construc_Panel_02
+    400454: Unit_Terran_Construc_Panel_02_end
+    400456: Unit_Terran_Construc_Panel_03
+    400458: Unit_Terran_Construc_Panel_03_end
+    400460: Unit_Terran_Construc_Panel_04
+    400462: Unit_Terran_Construc_Panel_04_end
+    400464: Unit_Terran_Construc_Panel_05
+    400466: Unit_Terran_Construc_Panel_05_end
+    400468: Unit_Terran_Construc_Panel_06
+    400470: Unit_Terran_Construc_Panel_06_end
+    400472: Vol_Target
+    400474: Vol_Target 01
+    400476: Vol_Target 01_end
+    400478: Vol_Target 02
+    400480: Vol_Target 02_end
+    400482: Vol_Target 03
+    400484: Vol_Target 03_end
+    400486: Vol_Target 04
+    400488: Vol_Target 04_end
+    400490: Vol_Target 05
+    400492: Vol_Target 05_end
+    400494: Vol_Target 06
+    400496: Vol_Target 06_end
+    400498: Vol_Target 07
+    400500: Vol_Target 07_end
+    400502: Vol_Target 08
+    400504: Vol_Target 08_end
+    400506: Vol_Target 10
+    400508: Vol_Target 10_end
+    400510: Vol_Target 11
+    400512: Vol_Target 11_end
+    400514: Vol_Target_end
+    2000000: Camera
+    4300000: Bottom_Flare
+    4300002: Mesh.005
+    4300004: Mesh.004
+    4300006: Mesh.003
+    4300008: Mesh.002
+    4300010: Mesh.001
+    4300012: Mesh
+    4300014: Sphere01distortion02
+    7400000: Armature Object|Armature ObjectAttack
+    7400002: Armature Object|Armature ObjectBuild A Stand
+    7400004: Armature Object|Armature ObjectBuild A Start
+    7400006: Armature Object|Armature ObjectBuild B Stand
+    7400008: Armature Object|Armature ObjectBuild B Start
+    7400010: Armature Object|Armature ObjectBuild C Stand
+    7400012: Armature Object|Armature ObjectBuild C Stand Jump
+    7400014: Armature Object|Armature ObjectBuild C Start
+    7400016: Armature Object|Armature ObjectBuild C Start Jump
+    7400018: Armature Object|Armature ObjectBuild D Stand Jump
+    7400020: Armature Object|Armature ObjectBuild D Start
+    7400022: Armature Object|Armature ObjectFly End
+    7400024: Armature Object|Armature ObjectFly End A
+    7400026: Armature Object|Armature ObjectFly End B
+    7400028: Armature Object|Armature ObjectFly Stand
+    7400030: Armature Object|Armature ObjectFly Stand A
+    7400032: Armature Object|Armature ObjectFly Stand B
+    7400034: Armature Object|Armature ObjectFly Start
+    7400036: Armature Object|Armature ObjectFly Start A
+    7400038: Armature Object|Armature ObjectFly Start B
+    7400040: Armature Object|Armature ObjectFly Walk
+    7400042: Armature Object|Armature ObjectFly Walk A
+    7400044: Armature Object|Armature ObjectFly Walk B
+    7400046: Armature Object|Armature ObjectMorph A
+    7400048: Armature Object|Armature ObjectMorph B
+    7400050: Armature Object|Armature ObjectMorph C
+    7400052: Armature Object|Armature ObjectStand
+    7400054: Armature Object|Armature ObjectStand A
+    7400056: Armature Object|Armature ObjectStand B
+    7400058: Armature Object|Armature ObjectStand C
+    7400060: Armature Object|Armature ObjectStand Work
+    7400062: Armature Object|Armature ObjectStand Work A
+    7400064: Armature Object|Armature ObjectStand Work B
+    7400066: Armature Object|Armature ObjectStand Work C
+    7400068: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Bottom_Flare
+    13700002: Mesh
+    13700004: Mesh.001
+    13700006: Mesh.002
+    13700008: Mesh.003
+    13700010: Mesh.004
+    13700012: Mesh.005
+    13700014: Sphere01distortion02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

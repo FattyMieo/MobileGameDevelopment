@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: db95bb493c79c584d88529c4addefe56
+timeCreated: 1511270869
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: Body1_Ribs01
+    100004: Body1_Ribs01_end
+    100006: Body1_Ribs02
+    100008: Body1_Ribs02_end
+    100010: BoneArmL
+    100012: BoneArmR
+    100014: BoneCalfL
+    100016: BoneCalfR
+    100018: BoneFootL
+    100020: BoneFootL_end
+    100022: BoneFootR
+    100024: BoneFootR_end
+    100026: BoneForeArmL
+    100028: BoneForeArmR
+    100030: BoneHandL
+    100032: BoneHandL_end
+    100034: BoneHandR
+    100036: BoneHandR_end
+    100038: BoneHead
+    100040: BoneHead_end
+    100042: BoneHipL
+    100044: BoneHipR
+    100046: BoneLegL
+    100048: BoneLegR
+    100050: BoneShoulderL
+    100052: BoneShoulderR
+    100054: BoneSpine01
+    100056: BoneSpine02
+    100058: BoneWaist
+    100060: Camera
+    100062: deadmarinemesh
+    100064: deadmarinemesh01
+    100066: deadmarinemesh01_end
+    100068: Dummy Vis Tracks 1
+    100070: Dummy Vis Tracks 2
+    100072: Dummy Vis Tracks 3
+    100074: Lamp
+    100076: //RootNode
+    100078: Mesh
+    100080: Mesh.001
+    100082: Mesh.002
+    100084: Mesh.003
+    100086: Mesh.004
+    100088: Mesh.005
+    100090: Mesh.006
+    100092: Mesh.007
+    100094: Mesh01
+    100096: Mesh01_end
+    100098: Mesh02
+    100100: Mesh02_end
+    100102: Mesh03
+    100104: Mesh03_end
+    100106: Mesh04
+    100108: Mesh04_end
+    100110: Mesh05
+    100112: Mesh05_end
+    100114: Mesh07
+    100116: Mesh08
+    100118: Mesh08_end
+    100120: Mesh09
+    100122: Mesh09_end
+    100124: Mesh10
+    100126: Mesh10_end
+    100128: Mesh11
+    100130: Mesh11_end
+    100132: Mesh12
+    100134: Mesh12_end
+    100136: Mesh13deadarm
+    100138: Mesh13deadarm_end
+    100140: Object04
+    100142: Object04_end
+    100144: Root
+    100146: Shield
+    100148: Shield01
+    100150: Shield01 1
+    100152: Shield01_end
+    100154: Shield02
+    100156: Shield02_end
+    100158: Shield_end
+    100160: Sphere01
+    100162: Sphere01_end
+    100164: Sphere02
+    100166: Sphere02_end
+    100168: Sphere03
+    100170: Sphere03_end
+    100172: Sphere04
+    100174: Sphere04_end
+    100176: Star2Part01blood02tails
+    100178: Star2Part01blood02tails_end
+    100180: Star2Part01Bloodpool05
+    100182: Star2Part01Bloodpool05_end
+    100184: Star2Part29gooey
+    100186: Star2Part29gooey02
+    100188: Star2Part29gooey02_end
+    100190: Star2Part29gooey03anim
+    100192: Star2Part29gooey03anim_end
+    100194: Star2Part29gooey_end
+    100196: Star2Part29headshot
+    100198: Star2Part29headshot_end
+    100200: Star2Part29mistblood
+    100202: Star2Part29mistblood_end
+    400000: Armature Object
+    400002: Body1_Ribs01
+    400004: Body1_Ribs01_end
+    400006: Body1_Ribs02
+    400008: Body1_Ribs02_end
+    400010: BoneArmL
+    400012: BoneArmR
+    400014: BoneCalfL
+    400016: BoneCalfR
+    400018: BoneFootL
+    400020: BoneFootL_end
+    400022: BoneFootR
+    400024: BoneFootR_end
+    400026: BoneForeArmL
+    400028: BoneForeArmR
+    400030: BoneHandL
+    400032: BoneHandL_end
+    400034: BoneHandR
+    400036: BoneHandR_end
+    400038: BoneHead
+    400040: BoneHead_end
+    400042: BoneHipL
+    400044: BoneHipR
+    400046: BoneLegL
+    400048: BoneLegR
+    400050: BoneShoulderL
+    400052: BoneShoulderR
+    400054: BoneSpine01
+    400056: BoneSpine02
+    400058: BoneWaist
+    400060: Camera
+    400062: deadmarinemesh
+    400064: deadmarinemesh01
+    400066: deadmarinemesh01_end
+    400068: Dummy Vis Tracks 1
+    400070: Dummy Vis Tracks 2
+    400072: Dummy Vis Tracks 3
+    400074: Lamp
+    400076: //RootNode
+    400078: Mesh
+    400080: Mesh.001
+    400082: Mesh.002
+    400084: Mesh.003
+    400086: Mesh.004
+    400088: Mesh.005
+    400090: Mesh.006
+    400092: Mesh.007
+    400094: Mesh01
+    400096: Mesh01_end
+    400098: Mesh02
+    400100: Mesh02_end
+    400102: Mesh03
+    400104: Mesh03_end
+    400106: Mesh04
+    400108: Mesh04_end
+    400110: Mesh05
+    400112: Mesh05_end
+    400114: Mesh07
+    400116: Mesh08
+    400118: Mesh08_end
+    400120: Mesh09
+    400122: Mesh09_end
+    400124: Mesh10
+    400126: Mesh10_end
+    400128: Mesh11
+    400130: Mesh11_end
+    400132: Mesh12
+    400134: Mesh12_end
+    400136: Mesh13deadarm
+    400138: Mesh13deadarm_end
+    400140: Object04
+    400142: Object04_end
+    400144: Root
+    400146: Shield
+    400148: Shield01
+    400150: Shield01 1
+    400152: Shield01_end
+    400154: Shield02
+    400156: Shield02_end
+    400158: Shield_end
+    400160: Sphere01
+    400162: Sphere01_end
+    400164: Sphere02
+    400166: Sphere02_end
+    400168: Sphere03
+    400170: Sphere03_end
+    400172: Sphere04
+    400174: Sphere04_end
+    400176: Star2Part01blood02tails
+    400178: Star2Part01blood02tails_end
+    400180: Star2Part01Bloodpool05
+    400182: Star2Part01Bloodpool05_end
+    400184: Star2Part29gooey
+    400186: Star2Part29gooey02
+    400188: Star2Part29gooey02_end
+    400190: Star2Part29gooey03anim
+    400192: Star2Part29gooey03anim_end
+    400194: Star2Part29gooey_end
+    400196: Star2Part29headshot
+    400198: Star2Part29headshot_end
+    400200: Star2Part29mistblood
+    400202: Star2Part29mistblood_end
+    2000000: Camera
+    4300000: Mesh.007
+    4300002: Mesh.006
+    4300004: Mesh.005
+    4300006: Mesh.004
+    4300008: Mesh.003
+    4300010: Mesh.002
+    4300012: Shield01
+    4300014: Mesh.001
+    4300016: Mesh
+    7400000: Armature Object|Armature ObjectCover
+    7400002: Armature Object|Armature ObjectDeath
+    7400004: Armature Object|Armature ObjectDeath 01
+    7400006: Armature Object|Armature ObjectDeath 02
+    7400008: Armature Object|Armature ObjectDeath 03
+    7400010: Armature Object|Armature ObjectDeath 04
+    7400012: Armature Object|Armature ObjectDeath 05
+    7400014: Armature Object|Armature ObjectDeath Silentkill
+    7400016: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Mesh
+    13700002: Mesh.001
+    13700004: Mesh.002
+    13700006: Mesh.003
+    13700008: Mesh.004
+    13700010: Mesh.005
+    13700012: Mesh.006
+    13700014: Mesh.007
+    13700016: Shield01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

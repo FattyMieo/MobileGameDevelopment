@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 74e5b36225ecf204fbc81d46d1901d90
+timeCreated: 1511241670
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: Bone_HoseLft
+    100004: Bone_HoseLft_end
+    100006: Bone_HoseRt
+    100008: Bone_HoseRt_end
+    100010: BoneArmL
+    100012: BoneArmR
+    100014: BoneBack01
+    100016: BoneBack02
+    100018: BoneBackPack01
+    100020: BoneBackPack01_end
+    100022: BoneBackPack02
+    100024: BoneBackPack02_end
+    100026: BoneCalfL
+    100028: BoneCalfR
+    100030: BoneFootL
+    100032: BoneFootR
+    100034: BoneForeArmL
+    100036: BoneForeArmR
+    100038: BoneHead
+    100040: BoneHead_end
+    100042: BoneLegL
+    100044: BoneLegR
+    100046: BoneShoulderL
+    100048: BoneShoulderR
+    100050: BoneToeL
+    100052: BoneToeL_end
+    100054: BoneToeR
+    100056: BoneToeR_end
+    100058: BoneWaist
+    100060: Box_LftShoulder
+    100062: Box_RtShoulder
+    100064: Camera
+    100066: connectBone01
+    100068: connectBone02
+    100070: //RootNode
+    100072: HitTestFuzzy
+    100074: HitTestFuzzy_end
+    100076: HitTestTight
+    100078: HitTestTight_end
+    100080: Lamp
+    100082: Main
+    100084: MarauderMesh_02
+    100086: MarauderMesh_02_end
+    100088: Mesh
+    100090: Mesh.001
+    100092: Mesh.002
+    100094: Mesh.003
+    100096: Ref_Center
+    100098: Ref_Center_end
+    100100: Ref_HardPoint
+    100102: Ref_HardPoint_end
+    100104: Ref_Origin
+    100106: Ref_Origin_end
+    100108: Ref_Overhead
+    100110: Ref_Overhead_end
+    100112: Ref_Weapon Left
+    100114: Ref_Weapon Left_end
+    100116: Ref_Weapon Right
+    100118: Ref_Weapon Right_end
+    100120: Root
+    100122: Star2Omni01
+    100124: Star2Omni01_end
+    100126: Unit_Terran_Firebat_
+    100128: Unit_Terran_Firebat__end
+    100130: Unit_Terran_Firebat_Torso
+    100132: Unit_Terran_Firebat_Torso_end
+    100134: Unit_Terran_Juggernaut_Shoulder_L
+    100136: Unit_Terran_Juggernaut_Shoulder_L_end
+    100138: Unit_Terran_Juggernaut_Shoulder_R
+    100140: Unit_Terran_Juggernaut_Shoulder_R_end
+    100142: Vol_Target
+    100144: Vol_Target_end
+    400000: Armature Object
+    400002: Bone_HoseLft
+    400004: Bone_HoseLft_end
+    400006: Bone_HoseRt
+    400008: Bone_HoseRt_end
+    400010: BoneArmL
+    400012: BoneArmR
+    400014: BoneBack01
+    400016: BoneBack02
+    400018: BoneBackPack01
+    400020: BoneBackPack01_end
+    400022: BoneBackPack02
+    400024: BoneBackPack02_end
+    400026: BoneCalfL
+    400028: BoneCalfR
+    400030: BoneFootL
+    400032: BoneFootR
+    400034: BoneForeArmL
+    400036: BoneForeArmR
+    400038: BoneHead
+    400040: BoneHead_end
+    400042: BoneLegL
+    400044: BoneLegR
+    400046: BoneShoulderL
+    400048: BoneShoulderR
+    400050: BoneToeL
+    400052: BoneToeL_end
+    400054: BoneToeR
+    400056: BoneToeR_end
+    400058: BoneWaist
+    400060: Box_LftShoulder
+    400062: Box_RtShoulder
+    400064: Camera
+    400066: connectBone01
+    400068: connectBone02
+    400070: //RootNode
+    400072: HitTestFuzzy
+    400074: HitTestFuzzy_end
+    400076: HitTestTight
+    400078: HitTestTight_end
+    400080: Lamp
+    400082: Main
+    400084: MarauderMesh_02
+    400086: MarauderMesh_02_end
+    400088: Mesh
+    400090: Mesh.001
+    400092: Mesh.002
+    400094: Mesh.003
+    400096: Ref_Center
+    400098: Ref_Center_end
+    400100: Ref_HardPoint
+    400102: Ref_HardPoint_end
+    400104: Ref_Origin
+    400106: Ref_Origin_end
+    400108: Ref_Overhead
+    400110: Ref_Overhead_end
+    400112: Ref_Weapon Left
+    400114: Ref_Weapon Left_end
+    400116: Ref_Weapon Right
+    400118: Ref_Weapon Right_end
+    400120: Root
+    400122: Star2Omni01
+    400124: Star2Omni01_end
+    400126: Unit_Terran_Firebat_
+    400128: Unit_Terran_Firebat__end
+    400130: Unit_Terran_Firebat_Torso
+    400132: Unit_Terran_Firebat_Torso_end
+    400134: Unit_Terran_Juggernaut_Shoulder_L
+    400136: Unit_Terran_Juggernaut_Shoulder_L_end
+    400138: Unit_Terran_Juggernaut_Shoulder_R
+    400140: Unit_Terran_Juggernaut_Shoulder_R_end
+    400142: Vol_Target
+    400144: Vol_Target_end
+    2000000: Camera
+    4300000: Mesh.003
+    4300002: Mesh.002
+    4300004: Mesh.001
+    4300006: Mesh
+    7400000: Attack
+    7400002: Armature Object|Armature ObjectDeath
+    7400004: Armature Object|Armature ObjectDeath Silentkill
+    7400006: Armature Object|Armature ObjectFidget
+    7400008: Fidget
+    7400010: Stand
+    7400012: Stand 01
+    7400014: Armature Object|Armature ObjectStand Left Ready
+    7400016: Stand Ready
+    7400018: Armature Object|Armature ObjectStand Right Ready
+    7400020: Armature Object|Armature ObjectTurn Left
+    7400022: Armature Object|Armature ObjectTurn Right
+    7400024: Armature Object|Armature ObjectUnload
+    7400026: Unload End
+    7400028: Walk
+    7400030: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Mesh
+    13700002: Mesh.001
+    13700004: Mesh.002
+    13700006: Mesh.003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Armature Object|Armature ObjectAttack
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Object|Armature ObjectDeath
+      takeName: Armature Object|Armature ObjectDeath
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Object|Armature ObjectDeath Silentkill
+      takeName: Armature Object|Armature ObjectDeath Silentkill
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Object|Armature ObjectFidget
+      takeName: Armature Object|Armature ObjectFidget
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fidget
+      takeName: Armature Object|Armature ObjectFidget 01
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand
+      takeName: Armature Object|Armature ObjectStand
+      firstFrame: 0
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand 01
+      takeName: Armature Object|Armature ObjectStand 01
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Object|Armature ObjectStand Left Ready
+      takeName: Armature Object|Armature ObjectStand Left Ready
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand Ready
+      takeName: Armature Object|Armature ObjectStand Ready
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Object|Armature ObjectStand Right Ready
+      takeName: Armature Object|Armature ObjectStand Right Ready
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Object|Armature ObjectTurn Left
+      takeName: Armature Object|Armature ObjectTurn Left
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Object|Armature ObjectTurn Right
+      takeName: Armature Object|Armature ObjectTurn Right
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Object|Armature ObjectUnload
+      takeName: Armature Object|Armature ObjectUnload
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Unload End
+      takeName: Armature Object|Armature ObjectUnload End
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Armature Object|Armature ObjectWalk
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Object|DEFAULTS_FOR_Armature Object
+      takeName: Armature Object|DEFAULTS_FOR_Armature Object
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

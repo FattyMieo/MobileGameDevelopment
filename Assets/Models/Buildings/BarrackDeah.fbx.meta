@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: f212787afe7b30342a9fc67f9e19b182
+timeCreated: 1511241707
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: //RootNode
+    100004: Camera
+    100006: Dummy02
+    100008: Evt_Simulate
+    100010: Evt_Simulate_end
+    100012: Lamp
+    100014: Mesh
+    100016: Mesh.001
+    100018: Mesh01
+    100020: Mesh01_end
+    100022: Object01
+    100024: Object02
+    100026: Object02_end
+    100028: Object09smoke02
+    100030: Object09smoke02_end
+    100032: Object27
+    100034: Object27_end
+    100036: Object28
+    100038: Object29
+    100040: Object29_end
+    100042: Object30
+    100044: Object31
+    100046: Object31_end
+    100048: Object32
+    100050: Object32_end
+    100052: Object33
+    100054: Object33 1
+    100056: Object33_end
+    100058: Object35
+    100060: Object35_end
+    100062: Object36
+    100064: Object36_end
+    100066: Object37
+    100068: Object37_end
+    100070: Object38
+    100072: Object38_end
+    100074: small fire bursts01
+    100076: Star2 projector_TerranBlastLarge
+    100078: Star2 projector_TerranBlastLarge.001
+    100080: Star2 projector_TerranBlastLarge.001_end
+    100082: Star2 projector_TerranBlastLarge_end
+    100084: Star2Omni01x
+    100086: Star2Omni01x_end
+    100088: Star2Omni02
+    100090: Star2Omni02_end
+    100092: Star2Part01debris
+    100094: Star2Part01debris01
+    100096: Star2Part01debris01_end
+    100098: Star2Part01debris_end
+    100100: Star2Part01fire04
+    100102: Star2Part01fire04_end
+    100104: Star2Part01firemain
+    100106: Star2Part01firemain01
+    100108: Star2Part01firemain01_end
+    100110: Star2Part01firemain_end
+    100112: Star2Part01flash
+    100114: Star2Part01flash_end
+    100116: Star2Part01glow01
+    100118: Star2Part01glow01_end
+    100120: Star2Part01shock01
+    100122: Star2Part01shock01_end
+    100124: Star2Part01shock02big
+    100126: Star2Part01shock02big_end
+    100128: Star2Part01sparksparent
+    100130: Star2Part01sparksparent_end
+    100132: Star2Part01sparkspawn
+    100134: Star2Part01sparkspawn_end
+    100136: Star2Part01trailparernt
+    100138: Star2Part01trailparernt01Rib
+    100140: Star2Part01trailparernt01Rib_end
+    100142: Star2Part01trailparernt_end
+    100144: Star2Part03tails01
+    100146: Star2Part03tails01_end
+    100148: Star2Part_Embers2009
+    100150: Star2Part_Embers2009_end
+    100152: Star2PartFirenewsmokering
+    100154: Star2PartFirenewsmokering_end
+    100156: Star2PartSmoke02
+    100158: Star2PartSmoke02_end
+    100160: Star2PartSmokeTendril1x
+    100162: Star2PartSmokeTendril1x_end
+    100164: Star2Partsmoketrailz
+    100166: Star2Partsmoketrailz_end
+    100168: Star2Ribbon01heatwave
+    100170: Star2Ribbon01heatwave_end
+    100172: Torus01
+    100174: Torus01 1
+    100176: Torus01_end
+    400000: Armature Object
+    400002: //RootNode
+    400004: Camera
+    400006: Dummy02
+    400008: Evt_Simulate
+    400010: Evt_Simulate_end
+    400012: Lamp
+    400014: Mesh
+    400016: Mesh.001
+    400018: Mesh01
+    400020: Mesh01_end
+    400022: Object01
+    400024: Object02
+    400026: Object02_end
+    400028: Object09smoke02
+    400030: Object09smoke02_end
+    400032: Object27
+    400034: Object27_end
+    400036: Object28
+    400038: Object29
+    400040: Object29_end
+    400042: Object30
+    400044: Object31
+    400046: Object31_end
+    400048: Object32
+    400050: Object32_end
+    400052: Object33
+    400054: Object33 1
+    400056: Object33_end
+    400058: Object35
+    400060: Object35_end
+    400062: Object36
+    400064: Object36_end
+    400066: Object37
+    400068: Object37_end
+    400070: Object38
+    400072: Object38_end
+    400074: small fire bursts01
+    400076: Star2 projector_TerranBlastLarge
+    400078: Star2 projector_TerranBlastLarge.001
+    400080: Star2 projector_TerranBlastLarge.001_end
+    400082: Star2 projector_TerranBlastLarge_end
+    400084: Star2Omni01x
+    400086: Star2Omni01x_end
+    400088: Star2Omni02
+    400090: Star2Omni02_end
+    400092: Star2Part01debris
+    400094: Star2Part01debris01
+    400096: Star2Part01debris01_end
+    400098: Star2Part01debris_end
+    400100: Star2Part01fire04
+    400102: Star2Part01fire04_end
+    400104: Star2Part01firemain
+    400106: Star2Part01firemain01
+    400108: Star2Part01firemain01_end
+    400110: Star2Part01firemain_end
+    400112: Star2Part01flash
+    400114: Star2Part01flash_end
+    400116: Star2Part01glow01
+    400118: Star2Part01glow01_end
+    400120: Star2Part01shock01
+    400122: Star2Part01shock01_end
+    400124: Star2Part01shock02big
+    400126: Star2Part01shock02big_end
+    400128: Star2Part01sparksparent
+    400130: Star2Part01sparksparent_end
+    400132: Star2Part01sparkspawn
+    400134: Star2Part01sparkspawn_end
+    400136: Star2Part01trailparernt
+    400138: Star2Part01trailparernt01Rib
+    400140: Star2Part01trailparernt01Rib_end
+    400142: Star2Part01trailparernt_end
+    400144: Star2Part03tails01
+    400146: Star2Part03tails01_end
+    400148: Star2Part_Embers2009
+    400150: Star2Part_Embers2009_end
+    400152: Star2PartFirenewsmokering
+    400154: Star2PartFirenewsmokering_end
+    400156: Star2PartSmoke02
+    400158: Star2PartSmoke02_end
+    400160: Star2PartSmokeTendril1x
+    400162: Star2PartSmokeTendril1x_end
+    400164: Star2Partsmoketrailz
+    400166: Star2Partsmoketrailz_end
+    400168: Star2Ribbon01heatwave
+    400170: Star2Ribbon01heatwave_end
+    400172: Torus01
+    400174: Torus01 1
+    400176: Torus01_end
+    2000000: Camera
+    4300000: Mesh.001
+    4300002: Torus01
+    4300004: Mesh
+    4300006: Object33
+    7400000: Armature Object|Armature ObjectDeath
+    7400002: Armature Object|Armature ObjectDeath 01
+    7400004: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Mesh
+    13700002: Mesh.001
+    13700004: Object33
+    13700006: Torus01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

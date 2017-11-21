@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 7b1c5b2ae59c52f479f254eb884ac7bb
+timeCreated: 1511270865
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: BoneArmL
+    100004: BoneArmR
+    100006: BoneCalfL
+    100008: BoneCalfR
+    100010: BoneFootL
+    100012: BoneFootL_end
+    100014: BoneFootR
+    100016: BoneFootR_end
+    100018: BoneForeArmL
+    100020: BoneForeArmR
+    100022: BoneHandL
+    100024: BoneHandL_end
+    100026: BoneHandR
+    100028: BoneHead
+    100030: BoneHead_end
+    100032: BoneHipL
+    100034: BoneHipR
+    100036: BoneLegL
+    100038: BoneLegR
+    100040: BoneShoulderL
+    100042: BoneShoulderR
+    100044: BoneSpine01
+    100046: BoneSpine02
+    100048: BoneWaist
+    100050: Camera
+    100052: Lamp
+    100054: Main
+    100056: //RootNode
+    100058: MarineMesh
+    100060: MarineMesh_end
+    100062: Mesh
+    100064: Object09fire
+    100066: Object09fire01
+    100068: Object09fire01_end
+    100070: Object09fire02
+    100072: Object09fire02_end
+    100074: Object09fire_end
+    100076: Object12smoke
+    100078: Object12smoke_end
+    100080: Object13sashsmoke
+    100082: Object13sashsmoke_end
+    100084: Object13sparks
+    100086: Object13sparks01ash
+    100088: Object13sparks01ash_end
+    100090: Object13sparks_end
+    100092: Root
+    100094: Shield01
+    100096: Shield01 1
+    100098: Shield01_end
+    100100: Star2Omni01
+    100102: Star2Omni01_end
+    400000: Armature Object
+    400002: BoneArmL
+    400004: BoneArmR
+    400006: BoneCalfL
+    400008: BoneCalfR
+    400010: BoneFootL
+    400012: BoneFootL_end
+    400014: BoneFootR
+    400016: BoneFootR_end
+    400018: BoneForeArmL
+    400020: BoneForeArmR
+    400022: BoneHandL
+    400024: BoneHandL_end
+    400026: BoneHandR
+    400028: BoneHead
+    400030: BoneHead_end
+    400032: BoneHipL
+    400034: BoneHipR
+    400036: BoneLegL
+    400038: BoneLegR
+    400040: BoneShoulderL
+    400042: BoneShoulderR
+    400044: BoneSpine01
+    400046: BoneSpine02
+    400048: BoneWaist
+    400050: Camera
+    400052: Lamp
+    400054: Main
+    400056: //RootNode
+    400058: MarineMesh
+    400060: MarineMesh_end
+    400062: Mesh
+    400064: Object09fire
+    400066: Object09fire01
+    400068: Object09fire01_end
+    400070: Object09fire02
+    400072: Object09fire02_end
+    400074: Object09fire_end
+    400076: Object12smoke
+    400078: Object12smoke_end
+    400080: Object13sashsmoke
+    400082: Object13sashsmoke_end
+    400084: Object13sparks
+    400086: Object13sparks01ash
+    400088: Object13sparks01ash_end
+    400090: Object13sparks_end
+    400092: Root
+    400094: Shield01
+    400096: Shield01 1
+    400098: Shield01_end
+    400100: Star2Omni01
+    400102: Star2Omni01_end
+    2000000: Camera
+    4300000: Mesh
+    4300002: Shield01
+    7400000: Armature Object|Armature ObjectCover
+    7400002: Armature Object|Armature ObjectDeath Fire
+    7400004: Armature Object|Armature ObjectDeath Fire 01
+    7400006: Armature Object|Armature ObjectDeath Fire 02
+    7400008: Armature Object|Armature ObjectDeath Fire 03
+    7400010: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Mesh
+    13700002: Shield01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

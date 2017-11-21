@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: e39c673b7b254714cb8016854335db05
+timeCreated: 1511241706
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: Bldg_Terran_SupplyDepot_00
+    100004: Bldg_Terran_SupplyDepot_01
+    100006: Bldg_Terran_SupplyDepot_01_end
+    100008: Bldg_Terran_SupplyDepot_02
+    100010: Bldg_Terran_SupplyDepot_02_end
+    100012: Bldg_Terran_SupplyDepot_03
+    100014: Bldg_Terran_SupplyDepot_03_end
+    100016: Bldg_Terran_SupplyDepot_04
+    100018: Bldg_Terran_SupplyDepot_04_end
+    100020: Bldg_Terran_SupplyDepot_05
+    100022: Bldg_Terran_SupplyDepot_05_end
+    100024: Bldg_Terran_SupplyDepot_06
+    100026: Bldg_Terran_SupplyDepot_07
+    100028: Bldg_Terran_SupplyDepot_07_end
+    100030: Bldg_Terran_SupplyDepot_Door_01
+    100032: Bldg_Terran_SupplyDepot_Door_01_end
+    100034: Bldg_Terran_SupplyDepot_Door_02
+    100036: Bldg_Terran_SupplyDepot_Door_02_end
+    100038: Bldg_Terran_SupplyDepot_Hose
+    100040: Bldg_Terran_SupplyDepot_Hose_end
+    100042: Bldg_Terran_SupplyDepot_Propeller
+    100044: Bldg_Terran_SupplyDepot_Propeller_end
+    100046: Bldg_Terran_SupplyDepot_Stack
+    100048: Blinkie_03
+    100050: Blinkie_03_end
+    100052: Bone_Link_Object
+    100054: Camera
+    100056: HitTestFuzzy
+    100058: HitTestFuzzy01
+    100060: HitTestFuzzy01_end
+    100062: HitTestFuzzy02
+    100064: HitTestFuzzy02_end
+    100066: HitTestFuzzy03
+    100068: HitTestFuzzy03_end
+    100070: HitTestFuzzy_end
+    100072: HitTestTight
+    100074: HitTestTight_end
+    100076: Lamp
+    100078: Mesh
+    100080: Mesh.001
+    100082: Ref_Center
+    100084: Ref_Center_end
+    100086: Ref_Damage
+    100088: Ref_Damage 01
+    100090: Ref_Damage 01_end
+    100092: Ref_Damage 02
+    100094: Ref_Damage 02_end
+    100096: Ref_Damage 03
+    100098: Ref_Damage 03_end
+    100100: Ref_Damage 04
+    100102: Ref_Damage 04_end
+    100104: Ref_Damage 05
+    100106: Ref_Damage 05_end
+    100108: Ref_Damage 06
+    100110: Ref_Damage 06_end
+    100112: Ref_Damage 07
+    100114: Ref_Damage 07_end
+    100116: Ref_Damage_end
+    100118: Ref_Origin
+    100120: Ref_Origin_end
+    100122: Ref_Overhead
+    100124: Ref_Overhead_end
+    100126: Star2Omni01
+    100128: Star2Omni01_end
+    100130: Star2Part01exhaust06trans03
+    100132: Star2Part01exhaust06trans03_end
+    100134: Star2Part01exhaust06trans04
+    100136: Star2Part01exhaust06trans04_end
+    100138: Star2Part02sparks
+    100140: Star2Part02sparks_end
+    100142: Star2Part31big smoke
+    100144: Star2Part31big smoke_end
+    100146: Star2PartSmoke01shoot
+    100148: Star2PartSmoke01shoot02
+    100150: Star2PartSmoke01shoot02_end
+    100152: Star2PartSmoke01shoot_end
+    100154: //RootNode
+    100156: Vol_Target
+    100158: Vol_Target_end
+    400000: Armature Object
+    400002: Bldg_Terran_SupplyDepot_00
+    400004: Bldg_Terran_SupplyDepot_01
+    400006: Bldg_Terran_SupplyDepot_01_end
+    400008: Bldg_Terran_SupplyDepot_02
+    400010: Bldg_Terran_SupplyDepot_02_end
+    400012: Bldg_Terran_SupplyDepot_03
+    400014: Bldg_Terran_SupplyDepot_03_end
+    400016: Bldg_Terran_SupplyDepot_04
+    400018: Bldg_Terran_SupplyDepot_04_end
+    400020: Bldg_Terran_SupplyDepot_05
+    400022: Bldg_Terran_SupplyDepot_05_end
+    400024: Bldg_Terran_SupplyDepot_06
+    400026: Bldg_Terran_SupplyDepot_07
+    400028: Bldg_Terran_SupplyDepot_07_end
+    400030: Bldg_Terran_SupplyDepot_Door_01
+    400032: Bldg_Terran_SupplyDepot_Door_01_end
+    400034: Bldg_Terran_SupplyDepot_Door_02
+    400036: Bldg_Terran_SupplyDepot_Door_02_end
+    400038: Bldg_Terran_SupplyDepot_Hose
+    400040: Bldg_Terran_SupplyDepot_Hose_end
+    400042: Bldg_Terran_SupplyDepot_Propeller
+    400044: Bldg_Terran_SupplyDepot_Propeller_end
+    400046: Bldg_Terran_SupplyDepot_Stack
+    400048: Blinkie_03
+    400050: Blinkie_03_end
+    400052: Bone_Link_Object
+    400054: Camera
+    400056: HitTestFuzzy
+    400058: HitTestFuzzy01
+    400060: HitTestFuzzy01_end
+    400062: HitTestFuzzy02
+    400064: HitTestFuzzy02_end
+    400066: HitTestFuzzy03
+    400068: HitTestFuzzy03_end
+    400070: HitTestFuzzy_end
+    400072: HitTestTight
+    400074: HitTestTight_end
+    400076: Lamp
+    400078: Mesh
+    400080: Mesh.001
+    400082: Ref_Center
+    400084: Ref_Center_end
+    400086: Ref_Damage
+    400088: Ref_Damage 01
+    400090: Ref_Damage 01_end
+    400092: Ref_Damage 02
+    400094: Ref_Damage 02_end
+    400096: Ref_Damage 03
+    400098: Ref_Damage 03_end
+    400100: Ref_Damage 04
+    400102: Ref_Damage 04_end
+    400104: Ref_Damage 05
+    400106: Ref_Damage 05_end
+    400108: Ref_Damage 06
+    400110: Ref_Damage 06_end
+    400112: Ref_Damage 07
+    400114: Ref_Damage 07_end
+    400116: Ref_Damage_end
+    400118: Ref_Origin
+    400120: Ref_Origin_end
+    400122: Ref_Overhead
+    400124: Ref_Overhead_end
+    400126: Star2Omni01
+    400128: Star2Omni01_end
+    400130: Star2Part01exhaust06trans03
+    400132: Star2Part01exhaust06trans03_end
+    400134: Star2Part01exhaust06trans04
+    400136: Star2Part01exhaust06trans04_end
+    400138: Star2Part02sparks
+    400140: Star2Part02sparks_end
+    400142: Star2Part31big smoke
+    400144: Star2Part31big smoke_end
+    400146: Star2PartSmoke01shoot
+    400148: Star2PartSmoke01shoot02
+    400150: Star2PartSmoke01shoot02_end
+    400152: Star2PartSmoke01shoot_end
+    400154: //RootNode
+    400156: Vol_Target
+    400158: Vol_Target_end
+    2000000: Camera
+    4300000: Mesh.001
+    4300002: Mesh
+    7400000: Armature Object|Armature ObjectBirth
+    7400002: Armature Object|Armature ObjectBuild A Stand
+    7400004: Armature Object|Armature ObjectBuild A Start
+    7400006: Armature Object|Armature ObjectBuild B Stand
+    7400008: Armature Object|Armature ObjectBuild B Start
+    7400010: Armature Object|Armature ObjectBuild C Stand
+    7400012: Armature Object|Armature ObjectBuild C Start
+    7400014: Armature Object|Armature ObjectBuild D Start
+    7400016: Armature Object|Armature ObjectBurrow
+    7400018: Armature Object|Armature ObjectSpell
+    7400020: Armature Object|Armature ObjectStand
+    7400022: Armature Object|Armature ObjectStand 01
+    7400024: Armature Object|Armature ObjectStand Burrow
+    7400026: Armature Object|Armature ObjectUnburrow
+    7400028: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Mesh
+    13700002: Mesh.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

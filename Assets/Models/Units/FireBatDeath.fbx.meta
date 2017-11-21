@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 827a7a9553d343744a868282c5cc5b04
+timeCreated: 1511241696
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: Camera
+    100004: Dummy01
+    100006: Evt_Simulate
+    100008: Evt_Simulate_end
+    100010: //RootNode
+    100012: Lamp
+    100014: MarauderMesh_01
+    100016: MarauderMesh_01_end
+    100018: Mesh
+    100020: Mesh.001
+    100022: Object01
+    100024: Object01_end
+    100026: Object03
+    100028: Object03_end
+    100030: Object09fire01
+    100032: Object09fire01_end
+    100034: Object09fire02
+    100036: Object09fire02_end
+    100038: Object14
+    100040: Object15
+    100042: Star2 projector01blacksmear
+    100044: Star2 projector01blacksmear.001
+    100046: Star2 projector01blacksmear.001_end
+    100048: Star2 projector01blacksmear_end
+    100050: Star2Omni01
+    100052: Star2Omni01_end
+    100054: Star2Part02boomglow04
+    100056: Star2Part02boomglow04_end
+    100058: Star2PartFireHotblaster
+    100060: Star2PartFireHotblaster_end
+    100062: Star2PartFirenewsmokering
+    100064: Star2PartFirenewsmokering_end
+    100066: Unit_Firebat_Guard_L02
+    100068: Unit_Firebat_Guard_L02 1
+    100070: Unit_Firebat_Guard_L02_end
+    100072: Unit_Terran_Firebat_01
+    100074: Unit_Terran_Firebat_01_end
+    100076: Unit_Terran_Firebat_Head01
+    100078: Unit_Terran_Firebat_Head01_end
+    100080: Unit_Terran_Firebat_Torso01
+    100082: Unit_Terran_Firebat_Torso01_end
+    100084: Unit_Terran_Firebat_Waist01
+    100086: Unit_Terran_Firebat_Waist01_end
+    100088: Unit_Terran_Juggernaut_Shoulder_L01
+    100090: Unit_Terran_Juggernaut_Shoulder_L01 1
+    100092: Unit_Terran_Juggernaut_Shoulder_L01_end
+    100094: Unit_Terran_Juggernaut_Shoulder_R01
+    100096: Unit_Terran_Juggernaut_Shoulder_R01 1
+    100098: Unit_Terran_Juggernaut_Shoulder_R01_end
+    100100: Unit_Terran_Juggernaut_Wrist_L01
+    100102: Unit_Terran_Juggernaut_Wrist_L01 1
+    100104: Unit_Terran_Juggernaut_Wrist_L01_end
+    400000: Armature Object
+    400002: Camera
+    400004: Dummy01
+    400006: Evt_Simulate
+    400008: Evt_Simulate_end
+    400010: //RootNode
+    400012: Lamp
+    400014: MarauderMesh_01
+    400016: MarauderMesh_01_end
+    400018: Mesh
+    400020: Mesh.001
+    400022: Object01
+    400024: Object01_end
+    400026: Object03
+    400028: Object03_end
+    400030: Object09fire01
+    400032: Object09fire01_end
+    400034: Object09fire02
+    400036: Object09fire02_end
+    400038: Object14
+    400040: Object15
+    400042: Star2 projector01blacksmear
+    400044: Star2 projector01blacksmear.001
+    400046: Star2 projector01blacksmear.001_end
+    400048: Star2 projector01blacksmear_end
+    400050: Star2Omni01
+    400052: Star2Omni01_end
+    400054: Star2Part02boomglow04
+    400056: Star2Part02boomglow04_end
+    400058: Star2PartFireHotblaster
+    400060: Star2PartFireHotblaster_end
+    400062: Star2PartFirenewsmokering
+    400064: Star2PartFirenewsmokering_end
+    400066: Unit_Firebat_Guard_L02
+    400068: Unit_Firebat_Guard_L02 1
+    400070: Unit_Firebat_Guard_L02_end
+    400072: Unit_Terran_Firebat_01
+    400074: Unit_Terran_Firebat_01_end
+    400076: Unit_Terran_Firebat_Head01
+    400078: Unit_Terran_Firebat_Head01_end
+    400080: Unit_Terran_Firebat_Torso01
+    400082: Unit_Terran_Firebat_Torso01_end
+    400084: Unit_Terran_Firebat_Waist01
+    400086: Unit_Terran_Firebat_Waist01_end
+    400088: Unit_Terran_Juggernaut_Shoulder_L01
+    400090: Unit_Terran_Juggernaut_Shoulder_L01 1
+    400092: Unit_Terran_Juggernaut_Shoulder_L01_end
+    400094: Unit_Terran_Juggernaut_Shoulder_R01
+    400096: Unit_Terran_Juggernaut_Shoulder_R01 1
+    400098: Unit_Terran_Juggernaut_Shoulder_R01_end
+    400100: Unit_Terran_Juggernaut_Wrist_L01
+    400102: Unit_Terran_Juggernaut_Wrist_L01 1
+    400104: Unit_Terran_Juggernaut_Wrist_L01_end
+    2000000: Camera
+    4300000: Mesh.001
+    4300002: Unit_Terran_Juggernaut_Shoulder_R01
+    4300004: Unit_Terran_Juggernaut_Wrist_L01
+    4300006: Unit_Terran_Juggernaut_Shoulder_L01
+    4300008: Unit_Firebat_Guard_L02
+    4300010: Mesh
+    7400000: Armature Object|Armature ObjectDeath
+    7400002: Armature Object|Armature ObjectDeath 01
+    7400004: Armature Object|Armature ObjectDeath 02
+    7400006: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Mesh
+    13700002: Mesh.001
+    13700004: Unit_Firebat_Guard_L02
+    13700006: Unit_Terran_Juggernaut_Shoulder_L01
+    13700008: Unit_Terran_Juggernaut_Shoulder_R01
+    13700010: Unit_Terran_Juggernaut_Wrist_L01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

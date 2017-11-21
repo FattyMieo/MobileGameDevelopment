@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 4617ccd38d11543459b7ad8cfb4f9fb5
+timeCreated: 1511241661
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature Object
+    100002: Body1_Ribs
+    100004: Body1_Ribs 1
+    100006: Bone06
+    100008: Bone06_end
+    100010: Bone_HoseLft
+    100012: Bone_HoseLft_end
+    100014: Bone_HoseRt
+    100016: Bone_HoseRt_end
+    100018: BoneArmL
+    100020: BoneArmR
+    100022: BoneBack01
+    100024: BoneBack02
+    100026: BoneBackPack01
+    100028: BoneBackPack01_end
+    100030: BoneBackPack02
+    100032: BoneBackPack02_end
+    100034: BoneCalfL
+    100036: BoneCalfR
+    100038: BoneFootL
+    100040: BoneFootR
+    100042: BoneForeArmL
+    100044: BoneForeArmL_end
+    100046: BoneForeArmR
+    100048: BoneHead
+    100050: BoneLegL
+    100052: BoneLegR
+    100054: BoneShoulderL
+    100056: BoneShoulderR
+    100058: BoneToeL
+    100060: BoneToeL_end
+    100062: BoneToeR
+    100064: BoneToeR_end
+    100066: BoneWaist
+    100068: Box_LftShoulder
+    100070: Box_RtShoulder
+    100072: Camera
+    100074: connectBone01
+    100076: connectBone02
+    100078: Cylinder01
+    100080: Cylinder01_end
+    100082: Dummy05deathgeo
+    100084: Evt_Simulate
+    100086: Evt_Simulate_end
+    100088: Lamp
+    100090: //RootNode
+    100092: Mesh
+    100094: Mesh.001
+    100096: Mesh.002
+    100098: Mesh02
+    100100: Mesh02_end
+    100102: Mesh08
+    100104: Mesh08_end
+    100106: Mesh09
+    100108: Mesh09_end
+    100110: Mesh13
+    100112: Mesh13 1
+    100114: Mesh13_end
+    100116: Mesh14
+    100118: Mesh14_end
+    100120: Mesh15
+    100122: Mesh16
+    100124: Mesh16_end
+    100126: Mesh18
+    100128: Mesh18_end
+    100130: Object
+    100132: Object02
+    100134: Object02_end
+    100136: Object05
+    100138: Object05_end
+    100140: Object06
+    100142: Object06_end
+    100144: Object07
+    100146: Object08
+    100148: Object08_end
+    100150: Object_end
+    100152: Ref_Center
+    100154: Ref_Center_end
+    100156: Ref_HardPoint
+    100158: Ref_HardPoint_end
+    100160: Ref_Origin
+    100162: Ref_Origin_end
+    100164: Ref_Overhead
+    100166: Ref_Overhead_end
+    100168: Ref_Target
+    100170: Ref_Target_end
+    100172: Ref_Weapon Left
+    100174: Ref_Weapon Left_end
+    100176: Ref_Weapon Right
+    100178: Ref_Weapon Right_end
+    100180: Root
+    100182: Star2Omni01
+    100184: Star2Omni01_end
+    100186: Star2Part01blood
+    100188: Star2Part01blood02tails
+    100190: Star2Part01blood02tails_end
+    100192: Star2Part01blood_end
+    100194: Star2Part01Bloodpool02
+    100196: Star2Part01Bloodpool02_end
+    100198: Star2Part01flash
+    100200: Star2Part01flash_end
+    100202: Star2Part01smokering
+    100204: Star2Part01smokering_end
+    100206: Star2Part02bblast1death02
+    100208: Star2Part02bblast1death02_end
+    100210: Star2Part02bblast1death04
+    100212: Star2Part02bblast1death04_end
+    100214: Star2Part02bblast1death05
+    100216: Star2Part02bblast1death05_end
+    100218: Star2Part03shock02disp
+    100220: Star2Part03shock02disp_end
+    100222: Star2Part03sparks02
+    100224: Star2Part03sparks02_end
+    100226: Star2Part03sparks1
+    100228: Star2Part03sparks1_end
+    100230: Star2Part30
+    100232: Star2Part30_end
+    100234: Star2PartSmokeTendril1
+    100236: Star2PartSmokeTendril1_end
+    100238: Vis tracks Main mesh
+    400000: Armature Object
+    400002: Body1_Ribs
+    400004: Body1_Ribs 1
+    400006: Bone06
+    400008: Bone06_end
+    400010: Bone_HoseLft
+    400012: Bone_HoseLft_end
+    400014: Bone_HoseRt
+    400016: Bone_HoseRt_end
+    400018: BoneArmL
+    400020: BoneArmR
+    400022: BoneBack01
+    400024: BoneBack02
+    400026: BoneBackPack01
+    400028: BoneBackPack01_end
+    400030: BoneBackPack02
+    400032: BoneBackPack02_end
+    400034: BoneCalfL
+    400036: BoneCalfR
+    400038: BoneFootL
+    400040: BoneFootR
+    400042: BoneForeArmL
+    400044: BoneForeArmL_end
+    400046: BoneForeArmR
+    400048: BoneHead
+    400050: BoneLegL
+    400052: BoneLegR
+    400054: BoneShoulderL
+    400056: BoneShoulderR
+    400058: BoneToeL
+    400060: BoneToeL_end
+    400062: BoneToeR
+    400064: BoneToeR_end
+    400066: BoneWaist
+    400068: Box_LftShoulder
+    400070: Box_RtShoulder
+    400072: Camera
+    400074: connectBone01
+    400076: connectBone02
+    400078: Cylinder01
+    400080: Cylinder01_end
+    400082: Dummy05deathgeo
+    400084: Evt_Simulate
+    400086: Evt_Simulate_end
+    400088: Lamp
+    400090: //RootNode
+    400092: Mesh
+    400094: Mesh.001
+    400096: Mesh.002
+    400098: Mesh02
+    400100: Mesh02_end
+    400102: Mesh08
+    400104: Mesh08_end
+    400106: Mesh09
+    400108: Mesh09_end
+    400110: Mesh13
+    400112: Mesh13 1
+    400114: Mesh13_end
+    400116: Mesh14
+    400118: Mesh14_end
+    400120: Mesh15
+    400122: Mesh16
+    400124: Mesh16_end
+    400126: Mesh18
+    400128: Mesh18_end
+    400130: Object
+    400132: Object02
+    400134: Object02_end
+    400136: Object05
+    400138: Object05_end
+    400140: Object06
+    400142: Object06_end
+    400144: Object07
+    400146: Object08
+    400148: Object08_end
+    400150: Object_end
+    400152: Ref_Center
+    400154: Ref_Center_end
+    400156: Ref_HardPoint
+    400158: Ref_HardPoint_end
+    400160: Ref_Origin
+    400162: Ref_Origin_end
+    400164: Ref_Overhead
+    400166: Ref_Overhead_end
+    400168: Ref_Target
+    400170: Ref_Target_end
+    400172: Ref_Weapon Left
+    400174: Ref_Weapon Left_end
+    400176: Ref_Weapon Right
+    400178: Ref_Weapon Right_end
+    400180: Root
+    400182: Star2Omni01
+    400184: Star2Omni01_end
+    400186: Star2Part01blood
+    400188: Star2Part01blood02tails
+    400190: Star2Part01blood02tails_end
+    400192: Star2Part01blood_end
+    400194: Star2Part01Bloodpool02
+    400196: Star2Part01Bloodpool02_end
+    400198: Star2Part01flash
+    400200: Star2Part01flash_end
+    400202: Star2Part01smokering
+    400204: Star2Part01smokering_end
+    400206: Star2Part02bblast1death02
+    400208: Star2Part02bblast1death02_end
+    400210: Star2Part02bblast1death04
+    400212: Star2Part02bblast1death04_end
+    400214: Star2Part02bblast1death05
+    400216: Star2Part02bblast1death05_end
+    400218: Star2Part03shock02disp
+    400220: Star2Part03shock02disp_end
+    400222: Star2Part03sparks02
+    400224: Star2Part03sparks02_end
+    400226: Star2Part03sparks1
+    400228: Star2Part03sparks1_end
+    400230: Star2Part30
+    400232: Star2Part30_end
+    400234: Star2PartSmokeTendril1
+    400236: Star2PartSmokeTendril1_end
+    400238: Vis tracks Main mesh
+    2000000: Camera
+    4300000: Mesh.002
+    4300002: Mesh.001
+    4300004: Mesh
+    4300006: Mesh13
+    4300008: Body1_Ribs
+    7400000: Armature Object|Armature ObjectDeath
+    7400002: Armature Object|Armature ObjectDeath 01
+    7400004: Armature Object|Armature ObjectDeath 02
+    7400006: Armature Object|Armature ObjectDeath Blast
+    7400008: Armature Object|Armature ObjectDeath Silentkill
+    7400010: Armature Object|DEFAULTS_FOR_Armature Object
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Body1_Ribs
+    13700002: Mesh
+    13700004: Mesh.001
+    13700006: Mesh.002
+    13700008: Mesh13
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
