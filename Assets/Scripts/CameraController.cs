@@ -27,6 +27,9 @@ public class CameraController : MonoBehaviour
 	private bool isPressedDown0 = false;
 	private bool isPressedDown1 = false;
 	private bool isPressedDownCtrl = false;
+	#if UNITY_ANDROID && !UNITY_EDITOR
+	private bool isStationary = false;
+	#endif
 
 	[Header("Camera Pan")]
 	public float panSpeed;

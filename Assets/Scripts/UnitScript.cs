@@ -3,40 +3,42 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class UnitScript : MonoBehaviour
+public class UnitScript : MonoBehaviour, IMoveable
 {
-	public Shader normalShader;
-	public Shader highlightShader;
-	private Renderer rend;
 	private Animator anim;
-
-	public bool isSelected;
 	private NavMeshAgent navAgent;
+
+	[Header("Settings")]
+	public GameObject selectionQuad;
+
+	[Header("Status")]
+	public bool isSelected;
+	private bool lastSelected;
 
 	public bool isAttacking;
 
 	// Use this for initialization
 	void Start ()
 	{
-//		rend = GetComponent<Renderer>();
 		anim = GetComponentInChildren<Animator>();
 		navAgent = GetComponent<NavMeshAgent>();
+
+		lastSelected = isSelected;
+		selectionQuad.SetActive(isSelected);
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
-		if(isSelected)
+		if(lastSelected != isSelected)
 		{
-//			rend.material.shader = highlightShader;
-		}
-		else
-		{
-//			rend.material.shader = normalShader;
+			selectionQuad.SetActive(isSelected);
+			lastSelected = isSelected;
 		}
 
 		anim.SetFloat("Velocity", navAgent.velocity.sqrMagnitude);
 
+		//Debug
 		if(Input.GetKeyDown(KeyCode.Space))
 		{
 			isAttacking = !isAttacking;
