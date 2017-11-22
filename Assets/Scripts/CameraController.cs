@@ -23,7 +23,6 @@ public class CameraController : MonoBehaviour
 	private float aZoomDistance = 0.0f;
 
 	//Booleans for checking two touches
-	private bool isStationary = false;
 	private bool hasBegan = false;
 	private bool isPressedDown0 = false;
 	private bool isPressedDown1 = false;
